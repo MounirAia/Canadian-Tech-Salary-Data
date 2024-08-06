@@ -1,3 +1,24 @@
+# Introduction
+Welcome to the Canadian Salary Data repository. This repository aims to provide a comprehensive and unified dataset of Canadian salary information derived from the Stack Overflow surveys. The data spans from 2011 to 2023 and includes additional datasets to enhance the accuracy and depth of the salary analysis. This repository serves as a valuable resource for understanding salary trends and distributions across various roles, industries, and cities in Canada. The data processing steps, from collection to cleaning and integration, ensure that the dataset is robust and ready for further analysis.
+
+The final dataset can be found at _Canadian Data/CanadaData.csv:_.
+A Toy application showing the dataset in _action_ can be found at: https://www.canada-tech-salary.tech
+
+## File Structure
+
+- _Canadian Data Preprocessing/*:_ Contains the jupyter notebook used to clean the data.
+
+- _Canadian Data/CanadaData.csv:_ Contains the final data set for the Canadian data. This data set is used to create the final machine learning model. The salary column is in USD dollars.
+
+- _Canadian Data/GovSalaryCombined.csv:_ Dataset that was constructed to map canadian city to the salary of the stack overflow survey. All the salary in this dataset is in CAD dollars.
+
+- _Canadian Data/CanadianCitiesPopulation.csv:_ Contains the population of the Canadian cities.
+
+- _Canadian Data/Stack Overflow/stack-overflow-canada.csv:_ Contains the unified and uncleaned view of all Canadian salary data from the Stack Overflow survey.
+
+-  _Canadian Data/Stack Overflow/*:_ Normally contains all the stack overflow survey, but since they are too large for the repo. You need to download them [Stack Overflow Survey](https://insights.stackoverflow.com/survey) and store them in this format (up to 2023.csv):
+	- <img src="https://github.com/user-attachments/assets/e2e62d2a-bb4f-4e99-bcac-89a1f0bd610c" alt="Desktop Application" width="400"/> 
+
 ## Data Processing Pipeline
 
 This is a brief description of the few noticeable problems that I had to solve to build the dataset used for this application.
