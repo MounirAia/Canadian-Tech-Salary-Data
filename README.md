@@ -5,6 +5,8 @@ The final dataset can be found at _Canadian Data/CanadaData.csv:_.
 
 A Toy application showing the dataset in _action_ can be found at: https://www.canada-tech-salary.tech
 
+Kaggle Dataset: https://www.kaggle.com/datasets/moun12345/canadian-salary-data-from-stack-overflow-survey
+
 ## File Structure
 
 - _Canadian Data Preprocessing/*:_ Contains the jupyter notebook used to clean the data.
