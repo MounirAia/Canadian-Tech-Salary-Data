@@ -2,6 +2,7 @@
 Welcome to the Canadian Salary Data repository. This repository aims to provide a comprehensive and unified dataset of Canadian salary information derived from the Stack Overflow surveys. The data spans from 2011 to 2023 and includes additional datasets to enhance the accuracy and depth of the salary analysis. This repository serves as a valuable resource for understanding salary trends and distributions across various roles, industries, and cities in Canada. The data processing steps, from collection to cleaning and integration, ensure that the dataset is robust and ready for further analysis.
 
 The final dataset can be found at _Canadian Data/CanadaData.csv:_.
+
 A Toy application showing the dataset in _action_ can be found at: https://www.canada-tech-salary.tech
 
 ## File Structure
@@ -25,6 +26,7 @@ This is a brief description of the few noticeable problems that I had to solve t
 I refer to "user" as the person who had answered the Stack Overflow Survey.
 
 A visual representation of the data used can be found at: https://www.canada-tech-salary.tech/data
+
 The Repository of the website can be found at: https://github.com/MounirAia/Canadian-Tech-Salary-Prediction-App
 
 ### Data Collection
