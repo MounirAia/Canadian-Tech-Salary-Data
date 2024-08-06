@@ -1,0 +1,356 @@
+City,0-1,2-4,5-9,10-*,Role,Province,Group Size,Population
+Toronto,62035.2,88617.6,105508.8,122400.0,"Senior Executive (C-Suite, VP, etc.)",Ontario,Large urban,5647656.0
+Toronto,62035.2,88617.6,105508.8,122400.0,Engineering manager,Ontario,Large urban,5647656.0
+Toronto,34560.0,66456.0,91036.8,115617.6,Educator,Ontario,Large urban,5647656.0
+Toronto,62035.2,88617.6,105508.8,122400.0,Project manager,Ontario,Large urban,5647656.0
+Toronto,46728.00000000001,76147.2,97149.6,118152.0,DevOps specialist,Ontario,Large urban,5647656.0
+Toronto,29073.600000000002,51926.4,67500.0,83073.59999999999,"Developer, back-end",Ontario,Large urban,5647656.0
+Toronto,41529.6,64800.0,78264.0,91728.0,"Developer, embedded applications or devices",Ontario,Large urban,5647656.0
+Toronto,62035.2,88617.6,105508.8,122400.0,Product manager,Ontario,Large urban,5647656.0
+Toronto,29073.600000000002,51926.4,67500.0,83073.59999999999,"Developer, full-stack",Ontario,Large urban,5647656.0
+Toronto,41529.6,64800.0,78264.0,91728.0,Hardware Engineer,Ontario,Large urban,5647656.0
+Toronto,37440.0,66456.0,77536.8,88617.6,"Developer, game or graphics",Ontario,Large urban,5647656.0
+Toronto,36921.6,59040.0,71056.79999999999,83073.59999999999,"Developer, QA or test",Ontario,Large urban,5647656.0
+Toronto,39571.2,69667.2,92664.0,115660.79999999999,Data or business analyst,Ontario,Large urban,5647656.0
+Toronto,29073.600000000002,51926.4,67500.0,83073.59999999999,"Developer, front-end",Ontario,Large urban,5647656.0
+Toronto,39571.2,69667.2,92664.0,115660.79999999999,"Engineer, data",Ontario,Large urban,5647656.0
+Toronto,39571.2,69667.2,92664.0,115660.79999999999,Data scientist or machine learning specialist,Ontario,Large urban,5647656.0
+Toronto,28800.0,48456.0,55612.8,62769.600000000006,Designer,Ontario,Large urban,5647656.0
+Toronto,29073.600000000002,51926.4,67500.0,83073.59999999999,"Developer, mobile",Ontario,Large urban,5647656.0
+Toronto,46728.00000000001,76147.2,97149.6,118152.0,Security professional,Ontario,Large urban,5647656.0
+Toronto,29073.600000000002,51926.4,67500.0,83073.59999999999,"Developer, desktop or enterprise applications",Ontario,Large urban,5647656.0
+Toronto,46728.00000000001,76147.2,97149.6,118152.0,Cloud infrastructure engineer,Ontario,Large urban,5647656.0
+Toronto,34560.0,66456.0,91036.8,115617.6,Academic researcher,Ontario,Large urban,5647656.0
+Toronto,34560.0,66456.0,91036.8,115617.6,Research & Development role,Ontario,Large urban,5647656.0
+Toronto,34560.0,66456.0,91036.8,115617.6,Scientist,Ontario,Large urban,5647656.0
+Toronto,46728.00000000001,76147.2,97149.6,118152.0,"Engineer, site reliability",Ontario,Large urban,5647656.0
+Toronto,28800.0,48456.0,55612.8,62769.600000000006,Developer Experience,Ontario,Large urban,5647656.0
+Toronto,46728.00000000001,76147.2,97149.6,118152.0,System administrator,Ontario,Large urban,5647656.0
+Toronto,46728.00000000001,76147.2,97149.6,118152.0,Database administrator,Ontario,Large urban,5647656.0
+Montreal,35568.0,63720.0,86824.8,109929.6,Data or business analyst,Quebec,Large urban,3675219.0
+Montreal,59083.200000000004,76147.2,89762.4,103377.6,Hardware Engineer,Quebec,Large urban,3675219.0
+Montreal,36000.0,70891.2,80445.6,90000.0,System administrator,Quebec,Large urban,3675219.0
+Montreal,45000.0,64382.4,87573.6,110764.8,Scientist,Quebec,Large urban,3675219.0
+Montreal,31680.0,47851.2,57153.6,66456.0,"Developer, front-end",Quebec,Large urban,3675219.0
+Montreal,34660.8,57542.4,75909.6,94276.8,"Developer, QA or test",Quebec,Large urban,3675219.0
+Montreal,36000.0,70891.2,80445.6,90000.0,Cloud infrastructure engineer,Quebec,Large urban,3675219.0
+Montreal,28800.0,40320.0,53784.0,67248.0,Designer,Quebec,Large urban,3675219.0
+Montreal,31680.0,47851.2,57153.6,66456.0,"Developer, full-stack",Quebec,Large urban,3675219.0
+Montreal,36000.0,70891.2,80445.6,90000.0,"Engineer, site reliability",Quebec,Large urban,3675219.0
+Montreal,35568.0,63720.0,86824.8,109929.6,"Engineer, data",Quebec,Large urban,3675219.0
+Montreal,35568.0,63720.0,86824.8,109929.6,Data scientist or machine learning specialist,Quebec,Large urban,3675219.0
+Montreal,31680.0,47851.2,57153.6,66456.0,"Developer, desktop or enterprise applications",Quebec,Large urban,3675219.0
+Montreal,36000.0,70891.2,80445.6,90000.0,Database administrator,Quebec,Large urban,3675219.0
+Montreal,31680.0,47851.2,57153.6,66456.0,"Developer, mobile",Quebec,Large urban,3675219.0
+Montreal,62308.8,94622.4,115617.6,136612.80000000002,Product manager,Quebec,Large urban,3675219.0
+Montreal,62308.8,94622.4,115617.6,136612.80000000002,Engineering manager,Quebec,Large urban,3675219.0
+Montreal,28800.0,40320.0,53784.0,67248.0,Developer Experience,Quebec,Large urban,3675219.0
+Montreal,36000.0,70891.2,80445.6,90000.0,Security professional,Quebec,Large urban,3675219.0
+Montreal,45000.0,64382.4,87573.6,110764.8,Educator,Quebec,Large urban,3675219.0
+Montreal,59083.200000000004,76147.2,89762.4,103377.6,"Developer, embedded applications or devices",Quebec,Large urban,3675219.0
+Montreal,62308.8,94622.4,115617.6,136612.80000000002,"Senior Executive (C-Suite, VP, etc.)",Quebec,Large urban,3675219.0
+Montreal,45000.0,64382.4,87573.6,110764.8,Academic researcher,Quebec,Large urban,3675219.0
+Montreal,36720.0,63302.4,75960.0,88617.6,"Developer, game or graphics",Quebec,Large urban,3675219.0
+Montreal,36000.0,70891.2,80445.6,90000.0,DevOps specialist,Quebec,Large urban,3675219.0
+Montreal,62308.8,94622.4,115617.6,136612.80000000002,Project manager,Quebec,Large urban,3675219.0
+Montreal,45000.0,64382.4,87573.6,110764.8,Research & Development role,Quebec,Large urban,3675219.0
+Montreal,31680.0,47851.2,57153.6,66456.0,"Developer, back-end",Quebec,Large urban,3675219.0
+Vancouver Island and Coast,54000.0,75168.0,89510.4,103852.8,System administrator,British Columbia,Large urban,2426160.0
+Vancouver Island and Coast,42091.2,62308.8,77882.40000000001,93456.00000000001,"Developer, game or graphics",British Columbia,Large urban,2426160.0
+Vancouver Island and Coast,24120.0,51422.4,61848.0,72273.59999999999,"Developer, mobile",British Columbia,Large urban,2426160.0
+Vancouver Island and Coast,60480.0,75168.0,101620.79999999999,128073.59999999999,Project manager,British Columbia,Large urban,2426160.0
+Vancouver Island and Coast,54000.0,75168.0,89510.4,103852.8,Database administrator,British Columbia,Large urban,2426160.0
+Vancouver Island and Coast,60480.0,75168.0,101620.79999999999,128073.59999999999,"Senior Executive (C-Suite, VP, etc.)",British Columbia,Large urban,2426160.0
+Vancouver Island and Coast,54000.0,75168.0,89510.4,103852.8,Security professional,British Columbia,Large urban,2426160.0
+Vancouver Island and Coast,37224.0,60480.0,74548.8,88617.6,Hardware Engineer,British Columbia,Large urban,2426160.0
+Vancouver Island and Coast,24120.0,51422.4,61848.0,72273.59999999999,"Developer, desktop or enterprise applications",British Columbia,Large urban,2426160.0
+Vancouver Island and Coast,54000.0,75168.0,89510.4,103852.8,DevOps specialist,British Columbia,Large urban,2426160.0
+Vancouver Island and Coast,29995.199999999997,63691.2,88617.59999999999,113543.99999999999,"Developer, QA or test",British Columbia,Large urban,2426160.0
+Vancouver Island and Coast,54000.0,75168.0,89510.4,103852.8,"Engineer, site reliability",British Columbia,Large urban,2426160.0
+Vancouver Island and Coast,60480.0,75168.0,101620.79999999999,128073.59999999999,Product manager,British Columbia,Large urban,2426160.0
+Vancouver Island and Coast,54000.0,75168.0,89510.4,103852.8,Cloud infrastructure engineer,British Columbia,Large urban,2426160.0
+Vancouver Island and Coast,37224.0,60480.0,74548.8,88617.6,"Developer, embedded applications or devices",British Columbia,Large urban,2426160.0
+Vancouver Island and Coast,60480.0,75168.0,101620.79999999999,128073.59999999999,Engineering manager,British Columbia,Large urban,2426160.0
+Vancouver Island and Coast,24120.0,36835.2,52603.2,68371.2,Developer Experience,British Columbia,Large urban,2426160.0
+Vancouver Island and Coast,43200.0,62640.0,78048.0,93456.00000000001,Academic researcher,British Columbia,Large urban,2426160.0
+Vancouver Island and Coast,24120.0,51422.4,61848.0,72273.59999999999,"Developer, full-stack",British Columbia,Large urban,2426160.0
+Vancouver Island and Coast,24120.0,36835.2,52603.2,68371.2,Designer,British Columbia,Large urban,2426160.0
+Vancouver Island and Coast,24120.0,51422.4,61848.0,72273.59999999999,"Developer, front-end",British Columbia,Large urban,2426160.0
+Vancouver Island and Coast,24120.0,51422.4,61848.0,72273.59999999999,"Developer, back-end",British Columbia,Large urban,2426160.0
+Vancouver Island and Coast,43200.0,62640.0,78048.0,93456.00000000001,Research & Development role,British Columbia,Large urban,2426160.0
+Vancouver Island and Coast,43200.0,62640.0,78048.0,93456.00000000001,Scientist,British Columbia,Large urban,2426160.0
+Vancouver Island and Coast,43200.0,62640.0,78048.0,93456.00000000001,Educator,British Columbia,Large urban,2426160.0
+Calgary,64800.0,103852.8,131544.0,159235.2,"Senior Executive (C-Suite, VP, etc.)",Alberta,Large urban,1305550.0
+Calgary,31147.199999999997,51940.8,88279.20000000001,124617.6,"Developer, front-end",Alberta,Large urban,1305550.0
+Calgary,38894.4,61200.0,93160.8,125121.6,"Engineer, data",Alberta,Large urban,1305550.0
+Calgary,64800.0,103852.8,131544.0,159235.2,Project manager,Alberta,Large urban,1305550.0
+Calgary,42580.8,67680.0,91440.0,115200.0,Educator,Alberta,Large urban,1305550.0
+Calgary,42825.6,76147.2,93456.0,110764.8,DevOps specialist,Alberta,Large urban,1305550.0
+Calgary,38894.4,61200.0,93160.8,125121.6,Data or business analyst,Alberta,Large urban,1305550.0
+Calgary,38073.6,58852.799999999996,75744.0,92635.2,"Developer, game or graphics",Alberta,Large urban,1305550.0
+Calgary,28800.0,40320.0,59076.0,77832.0,Designer,Alberta,Large urban,1305550.0
+Calgary,31147.199999999997,51940.8,88279.20000000001,124617.6,"Developer, back-end",Alberta,Large urban,1305550.0
+Calgary,64800.0,103852.8,131544.0,159235.2,Product manager,Alberta,Large urban,1305550.0
+Calgary,24235.199999999997,59544.0,81698.4,103852.8,"Developer, embedded applications or devices",Alberta,Large urban,1305550.0
+Calgary,24235.199999999997,59544.0,81698.4,103852.8,Hardware Engineer,Alberta,Large urban,1305550.0
+Calgary,31147.199999999997,51940.8,88279.20000000001,124617.6,"Developer, full-stack",Alberta,Large urban,1305550.0
+Calgary,31147.199999999997,51940.8,88279.20000000001,124617.6,"Developer, desktop or enterprise applications",Alberta,Large urban,1305550.0
+Calgary,42825.6,76147.2,93456.0,110764.8,Security professional,Alberta,Large urban,1305550.0
+Calgary,42580.8,67680.0,91440.0,115200.0,Scientist,Alberta,Large urban,1305550.0
+Calgary,42825.6,76147.2,93456.0,110764.8,"Engineer, site reliability",Alberta,Large urban,1305550.0
+Calgary,42580.8,67680.0,91440.0,115200.0,Research & Development role,Alberta,Large urban,1305550.0
+Calgary,42825.6,76147.2,93456.0,110764.8,System administrator,Alberta,Large urban,1305550.0
+Calgary,42825.6,76147.2,93456.0,110764.8,Database administrator,Alberta,Large urban,1305550.0
+Calgary,28800.0,40320.0,59076.0,77832.0,Developer Experience,Alberta,Large urban,1305550.0
+Calgary,31147.199999999997,51940.8,88279.20000000001,124617.6,"Developer, mobile",Alberta,Large urban,1305550.0
+Calgary,64800.0,103852.8,131544.0,159235.2,Engineering manager,Alberta,Large urban,1305550.0
+Calgary,38894.4,61200.0,93160.8,125121.6,Data scientist or machine learning specialist,Alberta,Large urban,1305550.0
+Calgary,42825.6,76147.2,93456.0,110764.8,Cloud infrastructure engineer,Alberta,Large urban,1305550.0
+Calgary,42580.8,67680.0,91440.0,115200.0,Academic researcher,Alberta,Large urban,1305550.0
+Edmonton,48456.0,80640.0,90511.2,100382.4,Educator,Alberta,Large urban,1151635.0
+Edmonton,48456.0,80640.0,90511.2,100382.4,Academic researcher,Alberta,Large urban,1151635.0
+Edmonton,68126.40000000001,86328.0,119318.4,152308.8,Engineering manager,Alberta,Large urban,1151635.0
+Edmonton,28800.0,40147.2,58989.6,77832.0,Developer Experience,Alberta,Large urban,1151635.0
+Edmonton,47995.2,65764.8,84808.8,103852.8,Security professional,Alberta,Large urban,1151635.0
+Edmonton,24235.199999999997,59544.0,81698.4,103852.8,"Developer, embedded applications or devices",Alberta,Large urban,1151635.0
+Edmonton,48456.0,80640.0,90511.2,100382.4,Research & Development role,Alberta,Large urban,1151635.0
+Edmonton,47995.2,65764.8,84808.8,103852.8,System administrator,Alberta,Large urban,1151635.0
+Edmonton,31147.199999999997,51940.8,88279.20000000001,124617.6,"Developer, back-end",Alberta,Large urban,1151635.0
+Edmonton,68126.40000000001,86328.0,119318.4,152308.8,Product manager,Alberta,Large urban,1151635.0
+Edmonton,47995.2,65764.8,84808.8,103852.8,Cloud infrastructure engineer,Alberta,Large urban,1151635.0
+Edmonton,31147.199999999997,51940.8,88279.20000000001,124617.6,"Developer, desktop or enterprise applications",Alberta,Large urban,1151635.0
+Edmonton,68126.40000000001,86328.0,119318.4,152308.8,Project manager,Alberta,Large urban,1151635.0
+Edmonton,46036.799999999996,56246.4,73123.2,90000.0,"Developer, game or graphics",Alberta,Large urban,1151635.0
+Edmonton,48456.0,80640.0,90511.2,100382.4,Scientist,Alberta,Large urban,1151635.0
+Edmonton,47995.2,65764.8,84808.8,103852.8,Database administrator,Alberta,Large urban,1151635.0
+Edmonton,68126.40000000001,86328.0,119318.4,152308.8,"Senior Executive (C-Suite, VP, etc.)",Alberta,Large urban,1151635.0
+Edmonton,47995.2,65764.8,84808.8,103852.8,DevOps specialist,Alberta,Large urban,1151635.0
+Edmonton,47995.2,65764.8,84808.8,103852.8,"Engineer, site reliability",Alberta,Large urban,1151635.0
+Edmonton,45849.6,66628.8,84182.40000000001,101736.00000000001,"Engineer, data",Alberta,Large urban,1151635.0
+Edmonton,24235.199999999997,59544.0,81698.4,103852.8,Hardware Engineer,Alberta,Large urban,1151635.0
+Edmonton,45849.6,66628.8,84182.40000000001,101736.00000000001,Data or business analyst,Alberta,Large urban,1151635.0
+Edmonton,28800.0,40147.2,58989.6,77832.0,Designer,Alberta,Large urban,1151635.0
+Edmonton,31147.199999999997,51940.8,88279.20000000001,124617.6,"Developer, mobile",Alberta,Large urban,1151635.0
+Edmonton,31147.199999999997,51940.8,88279.20000000001,124617.6,"Developer, full-stack",Alberta,Large urban,1151635.0
+Edmonton,33768.0,66312.0,98136.0,129960.0,"Developer, QA or test",Alberta,Large urban,1151635.0
+Edmonton,31147.199999999997,51940.8,88279.20000000001,124617.6,"Developer, front-end",Alberta,Large urban,1151635.0
+Edmonton,45849.6,66628.8,84182.40000000001,101736.00000000001,Data scientist or machine learning specialist,Alberta,Large urban,1151635.0
+Ottawa,39312.0,66225.6,89582.40000000001,112939.20000000001,Data or business analyst,Ontario / Quebec,Large urban,1068821.0
+Ottawa,44308.8,76147.2,90000.0,103852.8,DevOps specialist,Ontario / Quebec,Large urban,1068821.0
+Ottawa,50400.0,86544.0,117698.40000000001,148852.80000000002,Project manager,Ontario / Quebec,Large urban,1068821.0
+Ottawa,29073.600000000002,51926.4,67500.0,83073.59999999999,"Developer, front-end",Ontario / Quebec,Large urban,1068821.0
+Ottawa,45000.0,61545.600000000006,73699.20000000001,85852.8,Hardware Engineer,Ontario / Quebec,Large urban,1068821.0
+Ottawa,39312.0,66225.6,89582.40000000001,112939.20000000001,"Engineer, data",Ontario / Quebec,Large urban,1068821.0
+Ottawa,44308.8,76147.2,90000.0,103852.8,Security professional,Ontario / Quebec,Large urban,1068821.0
+Ottawa,39312.0,66225.6,89582.40000000001,112939.20000000001,Data scientist or machine learning specialist,Ontario / Quebec,Large urban,1068821.0
+Ottawa,39110.4,65404.8,83304.0,101203.2,"Developer, QA or test",Ontario / Quebec,Large urban,1068821.0
+Ottawa,25920.0,44308.8,50212.8,56116.799999999996,Developer Experience,Ontario / Quebec,Large urban,1068821.0
+Ottawa,45777.6,65721.6,74397.6,83073.59999999999,"Developer, game or graphics",Ontario / Quebec,Large urban,1068821.0
+Ottawa,44308.8,76147.2,90000.0,103852.8,Cloud infrastructure engineer,Ontario / Quebec,Large urban,1068821.0
+Ottawa,44308.8,76147.2,90000.0,103852.8,System administrator,Ontario / Quebec,Large urban,1068821.0
+Ottawa,29073.600000000002,51926.4,67500.0,83073.59999999999,"Developer, mobile",Ontario / Quebec,Large urban,1068821.0
+Ottawa,44308.8,76147.2,90000.0,103852.8,Database administrator,Ontario / Quebec,Large urban,1068821.0
+Ottawa,29073.600000000002,51926.4,67500.0,83073.59999999999,"Developer, desktop or enterprise applications",Ontario / Quebec,Large urban,1068821.0
+Ottawa,44308.8,76147.2,90000.0,103852.8,"Engineer, site reliability",Ontario / Quebec,Large urban,1068821.0
+Ottawa,25920.0,44308.8,50212.8,56116.799999999996,Designer,Ontario / Quebec,Large urban,1068821.0
+Ottawa,50400.0,86544.0,117698.40000000001,148852.80000000002,"Senior Executive (C-Suite, VP, etc.)",Ontario / Quebec,Large urban,1068821.0
+Ottawa,29073.600000000002,51926.4,67500.0,83073.59999999999,"Developer, back-end",Ontario / Quebec,Large urban,1068821.0
+Ottawa,50400.0,86544.0,117698.40000000001,148852.80000000002,Product manager,Ontario / Quebec,Large urban,1068821.0
+Ottawa,29073.600000000002,51926.4,67500.0,83073.59999999999,"Developer, full-stack",Ontario / Quebec,Large urban,1068821.0
+Ottawa,45000.0,61545.600000000006,73699.20000000001,85852.8,"Developer, embedded applications or devices",Ontario / Quebec,Large urban,1068821.0
+Ottawa,50400.0,86544.0,117698.40000000001,148852.80000000002,Engineering manager,Ontario / Quebec,Large urban,1068821.0
+Winnipeg,38764.8,51926.4,61272.0,70617.6,Security professional,Manitoba,Large urban,758515.0
+Winnipeg,38764.8,51926.4,61272.0,70617.6,System administrator,Manitoba,Large urban,758515.0
+Winnipeg,59544.0,76147.2,115113.6,154080.0,Engineering manager,Manitoba,Large urban,758515.0
+Winnipeg,22032.0,34617.6,43228.8,51840.0,Designer,Manitoba,Large urban,758515.0
+Winnipeg,24926.399999999998,48456.0,60228.0,72000.0,"Developer, front-end",Manitoba,Large urban,758515.0
+Winnipeg,22032.0,34617.6,43228.8,51840.0,Developer Experience,Manitoba,Large urban,758515.0
+Winnipeg,40665.6,64987.200000000004,70920.0,76852.8,Scientist,Manitoba,Large urban,758515.0
+Winnipeg,34344.0,63244.8,79884.0,96523.2,"Developer, embedded applications or devices",Manitoba,Large urban,758515.0
+Winnipeg,40665.6,64987.200000000004,70920.0,76852.8,Academic researcher,Manitoba,Large urban,758515.0
+Winnipeg,40665.6,64987.200000000004,70920.0,76852.8,Educator,Manitoba,Large urban,758515.0
+Winnipeg,24926.399999999998,48456.0,60228.0,72000.0,"Developer, full-stack",Manitoba,Large urban,758515.0
+Winnipeg,24926.399999999998,48456.0,60228.0,72000.0,"Developer, mobile",Manitoba,Large urban,758515.0
+Winnipeg,59544.0,76147.2,115113.6,154080.0,Product manager,Manitoba,Large urban,758515.0
+Winnipeg,38764.8,51926.4,61272.0,70617.6,DevOps specialist,Manitoba,Large urban,758515.0
+Winnipeg,38764.8,51926.4,61272.0,70617.6,Cloud infrastructure engineer,Manitoba,Large urban,758515.0
+Winnipeg,59544.0,76147.2,115113.6,154080.0,"Senior Executive (C-Suite, VP, etc.)",Manitoba,Large urban,758515.0
+Winnipeg,38764.8,51926.4,61272.0,70617.6,Database administrator,Manitoba,Large urban,758515.0
+Winnipeg,34344.0,63244.8,79884.0,96523.2,Hardware Engineer,Manitoba,Large urban,758515.0
+Winnipeg,33840.0,45000.0,54900.0,64800.0,"Developer, QA or test",Manitoba,Large urban,758515.0
+Winnipeg,31507.199999999997,55382.4,72691.2,90000.0,"Developer, game or graphics",Manitoba,Large urban,758515.0
+Winnipeg,24926.399999999998,48456.0,60228.0,72000.0,"Developer, back-end",Manitoba,Large urban,758515.0
+Winnipeg,38764.8,51926.4,61272.0,70617.6,"Engineer, site reliability",Manitoba,Large urban,758515.0
+Winnipeg,40665.6,64987.200000000004,70920.0,76852.8,Research & Development role,Manitoba,Large urban,758515.0
+Winnipeg,24926.399999999998,48456.0,60228.0,72000.0,"Developer, desktop or enterprise applications",Manitoba,Large urban,758515.0
+Winnipeg,59544.0,76147.2,115113.6,154080.0,Project manager,Manitoba,Large urban,758515.0
+Centre-du-Quebec,62308.8,94622.4,115617.6,136612.80000000002,Product manager,Quebec,Large urban,733156.0
+Centre-du-Quebec,62308.8,94622.4,115617.6,136612.80000000002,Engineering manager,Quebec,Large urban,733156.0
+Centre-du-Quebec,62308.8,94622.4,115617.6,136612.80000000002,"Senior Executive (C-Suite, VP, etc.)",Quebec,Large urban,733156.0
+Centre-du-Quebec,62308.8,94622.4,115617.6,136612.80000000002,Project manager,Quebec,Large urban,733156.0
+Hamilton–Niagara Peninsula,36921.6,62308.8,74426.4,86544.0,"Developer, game or graphics",Ontario,Large urban,729560.0
+Hamilton–Niagara Peninsula,42048.0,67737.6,91728.0,115718.4,Data scientist or machine learning specialist,Ontario,Large urban,729560.0
+Hamilton–Niagara Peninsula,51926.4,69235.2,91634.4,114033.59999999999,Cloud infrastructure engineer,Ontario,Large urban,729560.0
+Hamilton–Niagara Peninsula,42724.8,55382.4,82382.4,109382.4,"Developer, desktop or enterprise applications",Ontario,Large urban,729560.0
+Hamilton–Niagara Peninsula,42048.0,67737.6,91728.0,115718.4,"Engineer, data",Ontario,Large urban,729560.0
+Hamilton–Niagara Peninsula,51926.4,69235.2,91634.4,114033.59999999999,System administrator,Ontario,Large urban,729560.0
+Hamilton–Niagara Peninsula,41529.6,64800.0,78264.0,91728.0,Hardware Engineer,Ontario,Large urban,729560.0
+Hamilton–Niagara Peninsula,42724.8,55382.4,82382.4,109382.4,"Developer, mobile",Ontario,Large urban,729560.0
+Hamilton–Niagara Peninsula,51926.4,69235.2,91634.4,114033.59999999999,"Engineer, site reliability",Ontario,Large urban,729560.0
+Hamilton–Niagara Peninsula,56649.600000000006,88617.6,107078.40000000001,125539.20000000001,Engineering manager,Ontario,Large urban,729560.0
+Hamilton–Niagara Peninsula,51926.4,69235.2,91634.4,114033.59999999999,Database administrator,Ontario,Large urban,729560.0
+Hamilton–Niagara Peninsula,28353.600000000002,43516.799999999996,55382.399999999994,67248.0,Designer,Ontario,Large urban,729560.0
+Hamilton–Niagara Peninsula,42048.0,67737.6,91728.0,115718.4,Data or business analyst,Ontario,Large urban,729560.0
+Hamilton–Niagara Peninsula,42724.8,55382.4,82382.4,109382.4,"Developer, full-stack",Ontario,Large urban,729560.0
+Hamilton–Niagara Peninsula,41529.6,64800.0,78264.0,91728.0,"Developer, embedded applications or devices",Ontario,Large urban,729560.0
+Hamilton–Niagara Peninsula,56649.600000000006,88617.6,107078.40000000001,125539.20000000001,Product manager,Ontario,Large urban,729560.0
+Hamilton–Niagara Peninsula,40320.0,57600.0,74952.0,92303.99999999999,"Developer, QA or test",Ontario,Large urban,729560.0
+Hamilton–Niagara Peninsula,51926.4,69235.2,91634.4,114033.59999999999,Security professional,Ontario,Large urban,729560.0
+Hamilton–Niagara Peninsula,56649.600000000006,88617.6,107078.40000000001,125539.20000000001,"Senior Executive (C-Suite, VP, etc.)",Ontario,Large urban,729560.0
+Hamilton–Niagara Peninsula,42724.8,55382.4,82382.4,109382.4,"Developer, front-end",Ontario,Large urban,729560.0
+Hamilton–Niagara Peninsula,28353.600000000002,43516.799999999996,55382.399999999994,67248.0,Developer Experience,Ontario,Large urban,729560.0
+Hamilton–Niagara Peninsula,51926.4,69235.2,91634.4,114033.59999999999,DevOps specialist,Ontario,Large urban,729560.0
+Hamilton–Niagara Peninsula,56649.600000000006,88617.6,107078.40000000001,125539.20000000001,Project manager,Ontario,Large urban,729560.0
+Hamilton–Niagara Peninsula,42724.8,55382.4,82382.4,109382.4,"Developer, back-end",Ontario,Large urban,729560.0
+Kitchener–Waterloo–Barrie,33926.4,53164.8,68119.2,83073.59999999999,"Developer, back-end",Ontario,Large urban,522888.0
+Kitchener–Waterloo–Barrie,46151.99999999999,74073.59999999999,95882.4,117691.20000000001,System administrator,Ontario,Large urban,522888.0
+Kitchener–Waterloo–Barrie,33926.4,53164.8,68119.2,83073.59999999999,"Developer, desktop or enterprise applications",Ontario,Large urban,522888.0
+Kitchener–Waterloo–Barrie,33926.4,53164.8,68119.2,83073.59999999999,"Developer, front-end",Ontario,Large urban,522888.0
+Kitchener–Waterloo–Barrie,33494.4,66585.6,87861.6,109137.6,"Engineer, data",Ontario,Large urban,522888.0
+Kitchener–Waterloo–Barrie,33926.4,53164.8,68119.2,83073.59999999999,"Developer, mobile",Ontario,Large urban,522888.0
+Kitchener–Waterloo–Barrie,61545.600000000006,79617.6,96300.0,112982.4,Engineering manager,Ontario,Large urban,522888.0
+Kitchener–Waterloo–Barrie,61545.600000000006,79617.6,96300.0,112982.4,"Senior Executive (C-Suite, VP, etc.)",Ontario,Large urban,522888.0
+Kitchener–Waterloo–Barrie,46151.99999999999,74073.59999999999,95882.4,117691.20000000001,"Engineer, site reliability",Ontario,Large urban,522888.0
+Kitchener–Waterloo–Barrie,41529.6,64800.0,78264.0,91728.0,Hardware Engineer,Ontario,Large urban,522888.0
+Kitchener–Waterloo–Barrie,40838.4,57600.0,73800.0,90000.0,"Developer, QA or test",Ontario,Large urban,522888.0
+Kitchener–Waterloo–Barrie,46151.99999999999,74073.59999999999,95882.4,117691.20000000001,Database administrator,Ontario,Large urban,522888.0
+Kitchener–Waterloo–Barrie,33494.4,66585.6,87861.6,109137.6,Data or business analyst,Ontario,Large urban,522888.0
+Kitchener–Waterloo–Barrie,41529.6,64800.0,78264.0,91728.0,"Developer, embedded applications or devices",Ontario,Large urban,522888.0
+Kitchener–Waterloo–Barrie,38937.6,69235.2,95544.0,121852.8,"Developer, game or graphics",Ontario,Large urban,522888.0
+Kitchener–Waterloo–Barrie,61545.600000000006,79617.6,96300.0,112982.4,Project manager,Ontario,Large urban,522888.0
+Kitchener–Waterloo–Barrie,28800.0,36000.0,43963.2,51926.4,Developer Experience,Ontario,Large urban,522888.0
+Kitchener–Waterloo–Barrie,46151.99999999999,74073.59999999999,95882.4,117691.20000000001,DevOps specialist,Ontario,Large urban,522888.0
+Kitchener–Waterloo–Barrie,33494.4,66585.6,87861.6,109137.6,Data scientist or machine learning specialist,Ontario,Large urban,522888.0
+Kitchener–Waterloo–Barrie,33926.4,53164.8,68119.2,83073.59999999999,"Developer, full-stack",Ontario,Large urban,522888.0
+Kitchener–Waterloo–Barrie,61545.600000000006,79617.6,96300.0,112982.4,Product manager,Ontario,Large urban,522888.0
+Kitchener–Waterloo–Barrie,46151.99999999999,74073.59999999999,95882.4,117691.20000000001,Security professional,Ontario,Large urban,522888.0
+Kitchener–Waterloo–Barrie,28800.0,36000.0,43963.2,51926.4,Designer,Ontario,Large urban,522888.0
+Kitchener–Waterloo–Barrie,46151.99999999999,74073.59999999999,95882.4,117691.20000000001,Cloud infrastructure engineer,Ontario,Large urban,522888.0
+London,26323.2,45000.0,53884.8,62769.600000000006,Developer Experience,Ontario,Large urban,423369.0
+London,47073.6,64785.600000000006,91468.8,118152.0,Cloud infrastructure engineer,Ontario,Large urban,423369.0
+London,47073.6,64785.600000000006,91468.8,118152.0,"Engineer, site reliability",Ontario,Large urban,423369.0
+London,36072.0,56419.2,65649.6,74880.0,"Developer, QA or test",Ontario,Large urban,423369.0
+London,47073.6,64785.600000000006,91468.8,118152.0,Security professional,Ontario,Large urban,423369.0
+London,34560.0,55382.4,69228.0,83073.59999999999,"Developer, game or graphics",Ontario,Large urban,423369.0
+London,61617.6,87926.40000000001,95889.6,103852.8,Engineering manager,Ontario,Large urban,423369.0
+London,47073.6,64785.600000000006,91468.8,118152.0,Database administrator,Ontario,Large urban,423369.0
+London,61617.6,87926.40000000001,95889.6,103852.8,"Senior Executive (C-Suite, VP, etc.)",Ontario,Large urban,423369.0
+London,26323.2,45000.0,53884.8,62769.600000000006,Designer,Ontario,Large urban,423369.0
+London,47073.6,64785.600000000006,91468.8,118152.0,DevOps specialist,Ontario,Large urban,423369.0
+London,47073.6,64785.600000000006,91468.8,118152.0,System administrator,Ontario,Large urban,423369.0
+London,61617.6,87926.40000000001,95889.6,103852.8,Product manager,Ontario,Large urban,423369.0
+London,61617.6,87926.40000000001,95889.6,103852.8,Project manager,Ontario,Large urban,423369.0
+Halifax,30600.0,38764.8,52264.8,65764.8,Designer,Nova Scotia,Large urban,348634.0
+Halifax,34502.4,58204.8,73951.20000000001,89697.6,DevOps specialist,Nova Scotia,Large urban,348634.0
+Halifax,30600.0,38764.8,52264.8,65764.8,Developer Experience,Nova Scotia,Large urban,348634.0
+Halifax,34502.4,58204.8,73951.20000000001,89697.6,Database administrator,Nova Scotia,Large urban,348634.0
+Halifax,27360.0,55382.4,67500.0,79617.6,"Developer, game or graphics",Nova Scotia,Large urban,348634.0
+Halifax,42696.0,63619.2,79653.6,95688.0,Research & Development role,Nova Scotia,Large urban,348634.0
+Halifax,32097.6,51307.200000000004,69501.6,87696.0,"Engineer, data",Nova Scotia,Large urban,348634.0
+Halifax,34502.4,58204.8,73951.20000000001,89697.6,System administrator,Nova Scotia,Large urban,348634.0
+Halifax,24134.4,48484.8,57801.6,67118.4,"Developer, full-stack",Nova Scotia,Large urban,348634.0
+Halifax,32097.6,51307.200000000004,69501.6,87696.0,Data or business analyst,Nova Scotia,Large urban,348634.0
+Halifax,34502.4,58204.8,73951.20000000001,89697.6,Security professional,Nova Scotia,Large urban,348634.0
+Halifax,24134.4,48484.8,57801.6,67118.4,"Developer, back-end",Nova Scotia,Large urban,348634.0
+Halifax,42696.0,63619.2,79653.6,95688.0,Educator,Nova Scotia,Large urban,348634.0
+Halifax,24134.4,48484.8,57801.6,67118.4,"Developer, front-end",Nova Scotia,Large urban,348634.0
+Halifax,64151.99999999999,69235.2,102924.0,136612.80000000002,"Senior Executive (C-Suite, VP, etc.)",Nova Scotia,Large urban,348634.0
+Halifax,34502.4,58204.8,73951.20000000001,89697.6,Cloud infrastructure engineer,Nova Scotia,Large urban,348634.0
+Halifax,42696.0,63619.2,79653.6,95688.0,Academic researcher,Nova Scotia,Large urban,348634.0
+Halifax,64151.99999999999,69235.2,102924.0,136612.80000000002,Product manager,Nova Scotia,Large urban,348634.0
+Halifax,24134.4,48484.8,57801.6,67118.4,"Developer, desktop or enterprise applications",Nova Scotia,Large urban,348634.0
+Halifax,64151.99999999999,69235.2,102924.0,136612.80000000002,Project manager,Nova Scotia,Large urban,348634.0
+Halifax,34214.4,51580.8,72280.79999999999,92980.79999999999,"Developer, QA or test",Nova Scotia,Large urban,348634.0
+Halifax,24134.4,48484.8,57801.6,67118.4,"Developer, mobile",Nova Scotia,Large urban,348634.0
+Halifax,32097.6,51307.200000000004,69501.6,87696.0,Data scientist or machine learning specialist,Nova Scotia,Large urban,348634.0
+Halifax,42696.0,63619.2,79653.6,95688.0,Scientist,Nova Scotia,Large urban,348634.0
+Halifax,64151.99999999999,69235.2,102924.0,136612.80000000002,Engineering manager,Nova Scotia,Large urban,348634.0
+Halifax,34502.4,58204.8,73951.20000000001,89697.6,"Engineer, site reliability",Nova Scotia,Large urban,348634.0
+Windsor-Sarnia,23832.0,29073.600000000002,40456.8,51840.0,Designer,Ontario,Large urban,306519.0
+Windsor-Sarnia,56649.600000000006,88617.6,107078.40000000001,125539.20000000001,Project manager,Ontario,Large urban,306519.0
+Windsor-Sarnia,28800.0,75283.2,96487.20000000001,117691.20000000001,"Engineer, site reliability",Ontario,Large urban,306519.0
+Windsor-Sarnia,56649.600000000006,88617.6,107078.40000000001,125539.20000000001,"Senior Executive (C-Suite, VP, etc.)",Ontario,Large urban,306519.0
+Windsor-Sarnia,39873.6,62308.8,85924.79999999999,109540.79999999999,"Developer, QA or test",Ontario,Large urban,306519.0
+Windsor-Sarnia,28800.0,75283.2,96487.20000000001,117691.20000000001,Security professional,Ontario,Large urban,306519.0
+Windsor-Sarnia,28800.0,75283.2,96487.20000000001,117691.20000000001,System administrator,Ontario,Large urban,306519.0
+Windsor-Sarnia,28800.0,75283.2,96487.20000000001,117691.20000000001,Database administrator,Ontario,Large urban,306519.0
+Windsor-Sarnia,56649.600000000006,88617.6,107078.40000000001,125539.20000000001,Product manager,Ontario,Large urban,306519.0
+Windsor-Sarnia,28800.0,75283.2,96487.20000000001,117691.20000000001,Cloud infrastructure engineer,Ontario,Large urban,306519.0
+Windsor-Sarnia,28800.0,75283.2,96487.20000000001,117691.20000000001,DevOps specialist,Ontario,Large urban,306519.0
+Windsor-Sarnia,23832.0,29073.600000000002,40456.8,51840.0,Developer Experience,Ontario,Large urban,306519.0
+Windsor-Sarnia,56649.600000000006,88617.6,107078.40000000001,125539.20000000001,Engineering manager,Ontario,Large urban,306519.0
+Saskatoon–Biggar,20160.0,33120.0,51451.2,69782.4,Designer,Saskatchewan,Large urban,264637.0
+Saskatoon–Biggar,45676.799999999996,85492.8,113220.0,140947.19999999998,Product manager,Saskatchewan,Large urban,264637.0
+Saskatoon–Biggar,41544.0,63000.0,75808.8,88617.6,DevOps specialist,Saskatchewan,Large urban,264637.0
+Saskatoon–Biggar,45676.799999999996,85492.8,113220.0,140947.19999999998,"Senior Executive (C-Suite, VP, etc.)",Saskatchewan,Large urban,264637.0
+Saskatoon–Biggar,45676.799999999996,85492.8,113220.0,140947.19999999998,Engineering manager,Saskatchewan,Large urban,264637.0
+Saskatoon–Biggar,38880.0,67680.0,78840.0,90000.0,"Developer, QA or test",Saskatchewan,Large urban,264637.0
+Saskatoon–Biggar,41544.0,63000.0,75808.8,88617.6,"Engineer, site reliability",Saskatchewan,Large urban,264637.0
+Saskatoon–Biggar,41544.0,63000.0,75808.8,88617.6,Cloud infrastructure engineer,Saskatchewan,Large urban,264637.0
+Saskatoon–Biggar,45676.799999999996,85492.8,113220.0,140947.19999999998,Project manager,Saskatchewan,Large urban,264637.0
+Saskatoon–Biggar,20160.0,33120.0,51451.2,69782.4,Developer Experience,Saskatchewan,Large urban,264637.0
+Saskatoon–Biggar,41544.0,63000.0,75808.8,88617.6,System administrator,Saskatchewan,Large urban,264637.0
+Saskatoon–Biggar,33235.2,57600.0,64800.0,72000.0,"Developer, game or graphics",Saskatchewan,Large urban,264637.0
+Saskatoon–Biggar,41544.0,63000.0,75808.8,88617.6,Security professional,Saskatchewan,Large urban,264637.0
+Saskatoon–Biggar,41544.0,63000.0,75808.8,88617.6,Database administrator,Saskatchewan,Large urban,264637.0
+Regina–Moose Mountain,51840.0,65073.6,78228.0,91382.4,Scientist,Saskatchewan,Large urban,224996.0
+Regina–Moose Mountain,41544.0,63000.0,75808.8,88617.6,"Engineer, site reliability",Saskatchewan,Large urban,224996.0
+Regina–Moose Mountain,51840.0,65073.6,78228.0,91382.4,Research & Development role,Saskatchewan,Large urban,224996.0
+Regina–Moose Mountain,38880.0,67680.0,78840.0,90000.0,"Developer, QA or test",Saskatchewan,Large urban,224996.0
+Regina–Moose Mountain,41544.0,63000.0,75808.8,88617.6,System administrator,Saskatchewan,Large urban,224996.0
+Regina–Moose Mountain,41544.0,63000.0,75808.8,88617.6,Database administrator,Saskatchewan,Large urban,224996.0
+Regina–Moose Mountain,54720.0,90993.59999999999,116704.79999999999,142416.0,Engineering manager,Saskatchewan,Large urban,224996.0
+Regina–Moose Mountain,20160.0,34560.0,55677.6,76795.2,Developer Experience,Saskatchewan,Large urban,224996.0
+Regina–Moose Mountain,54720.0,90993.59999999999,116704.79999999999,142416.0,Project manager,Saskatchewan,Large urban,224996.0
+Regina–Moose Mountain,41544.0,63000.0,75808.8,88617.6,DevOps specialist,Saskatchewan,Large urban,224996.0
+Regina–Moose Mountain,41544.0,63000.0,75808.8,88617.6,Cloud infrastructure engineer,Saskatchewan,Large urban,224996.0
+Regina–Moose Mountain,20160.0,34560.0,55677.6,76795.2,Designer,Saskatchewan,Large urban,224996.0
+Regina–Moose Mountain,51840.0,65073.6,78228.0,91382.4,Academic researcher,Saskatchewan,Large urban,224996.0
+Regina–Moose Mountain,54720.0,90993.59999999999,116704.79999999999,142416.0,Product manager,Saskatchewan,Large urban,224996.0
+Regina–Moose Mountain,33235.2,53164.8,62582.4,72000.0,"Developer, game or graphics",Saskatchewan,Large urban,224996.0
+Regina–Moose Mountain,41544.0,63000.0,75808.8,88617.6,Security professional,Saskatchewan,Large urban,224996.0
+Regina–Moose Mountain,51840.0,65073.6,78228.0,91382.4,Educator,Saskatchewan,Large urban,224996.0
+Regina–Moose Mountain,54720.0,90993.59999999999,116704.79999999999,142416.0,"Senior Executive (C-Suite, VP, etc.)",Saskatchewan,Large urban,224996.0
+Kingston–Pembroke,24926.399999999998,55065.600000000006,64454.4,73843.2,"Developer, desktop or enterprise applications",Ontario,Large urban,127943.0
+Kingston–Pembroke,24926.399999999998,55065.600000000006,64454.4,73843.2,"Developer, mobile",Ontario,Large urban,127943.0
+Kingston–Pembroke,24926.399999999998,55065.600000000006,64454.4,73843.2,"Developer, front-end",Ontario,Large urban,127943.0
+Kingston–Pembroke,24926.399999999998,55065.600000000006,64454.4,73843.2,"Developer, full-stack",Ontario,Large urban,127943.0
+Kingston–Pembroke,24926.399999999998,55065.600000000006,64454.4,73843.2,"Developer, back-end",Ontario,Large urban,127943.0
+Kingston–Pembroke,41529.6,64800.0,78264.0,91728.0,"Developer, embedded applications or devices",Ontario,Large urban,127943.0
+Kingston–Pembroke,46151.99999999999,74073.59999999999,95882.4,117691.20000000001,Security professional,Ontario,Large urban,127943.0
+Kingston–Pembroke,46151.99999999999,74073.59999999999,95882.4,117691.20000000001,Database administrator,Ontario,Large urban,127943.0
+Kingston–Pembroke,56649.600000000006,88617.6,107078.40000000001,125539.20000000001,Engineering manager,Ontario,Large urban,127943.0
+Kingston–Pembroke,41529.6,64800.0,78264.0,91728.0,Hardware Engineer,Ontario,Large urban,127943.0
+Kingston–Pembroke,46151.99999999999,74073.59999999999,95882.4,117691.20000000001,"Engineer, site reliability",Ontario,Large urban,127943.0
+Kingston–Pembroke,56649.600000000006,88617.6,107078.40000000001,125539.20000000001,Product manager,Ontario,Large urban,127943.0
+Kingston–Pembroke,46151.99999999999,74073.59999999999,95882.4,117691.20000000001,System administrator,Ontario,Large urban,127943.0
+Kingston–Pembroke,56649.600000000006,88617.6,107078.40000000001,125539.20000000001,"Senior Executive (C-Suite, VP, etc.)",Ontario,Large urban,127943.0
+Kingston–Pembroke,56649.600000000006,88617.6,107078.40000000001,125539.20000000001,Project manager,Ontario,Large urban,127943.0
+Kingston–Pembroke,46151.99999999999,74073.59999999999,95882.4,117691.20000000001,Cloud infrastructure engineer,Ontario,Large urban,127943.0
+Kingston–Pembroke,46151.99999999999,74073.59999999999,95882.4,117691.20000000001,DevOps specialist,Ontario,Large urban,127943.0
+Moncton–Richibucto,22824.0,41688.0,53244.0,64800.0,Designer,New Brunswick,Large urban,119785.0
+Moncton–Richibucto,41054.4,56678.4,75657.6,94636.8,"Engineer, site reliability",New Brunswick,Large urban,119785.0
+Moncton–Richibucto,41054.4,56678.4,75657.6,94636.8,System administrator,New Brunswick,Large urban,119785.0
+Moncton–Richibucto,39211.2,56116.799999999996,74210.4,92303.99999999999,"Developer, game or graphics",New Brunswick,Large urban,119785.0
+Moncton–Richibucto,41054.4,56678.4,75657.6,94636.8,Cloud infrastructure engineer,New Brunswick,Large urban,119785.0
+Moncton–Richibucto,22824.0,41688.0,53244.0,64800.0,Developer Experience,New Brunswick,Large urban,119785.0
+Moncton–Richibucto,41054.4,56678.4,75657.6,94636.8,Security professional,New Brunswick,Large urban,119785.0
+Moncton–Richibucto,41054.4,56678.4,75657.6,94636.8,DevOps specialist,New Brunswick,Large urban,119785.0
+Moncton–Richibucto,43200.0,48456.0,67428.0,86400.0,"Developer, QA or test",New Brunswick,Large urban,119785.0
+Moncton–Richibucto,31737.6,59083.200000000004,77205.6,95328.0,"Developer, embedded applications or devices",New Brunswick,Large urban,119785.0
+Moncton–Richibucto,58219.2,77644.8,93664.8,109684.8,"Senior Executive (C-Suite, VP, etc.)",New Brunswick,Large urban,119785.0
+Moncton–Richibucto,41054.4,56678.4,75657.6,94636.8,Database administrator,New Brunswick,Large urban,119785.0
+Moncton–Richibucto,58219.2,77644.8,93664.8,109684.8,Product manager,New Brunswick,Large urban,119785.0
+Moncton–Richibucto,31737.6,59083.200000000004,77205.6,95328.0,Hardware Engineer,New Brunswick,Large urban,119785.0
+Moncton–Richibucto,58219.2,77644.8,93664.8,109684.8,Engineering manager,New Brunswick,Large urban,119785.0
+Moncton–Richibucto,58219.2,77644.8,93664.8,109684.8,Project manager,New Brunswick,Large urban,119785.0

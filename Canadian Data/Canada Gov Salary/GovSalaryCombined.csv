@@ -1,0 +1,755 @@
+City,0-1,2-4,5-9,10-*,Role
+Avalon Peninsula Region,43200.0,61200.0,85982.4,110764.8,Research & Development role
+Cape Breton Region,46728.00000000001,67262.4,88264.79999999999,109267.2,Research & Development role
+Halifax Region,42696.0,63619.2,79653.6,95688.0,Research & Development role
+North Shore Region,42004.8,59745.600000000006,75427.20000000001,91108.8,Research & Development role
+Southern Region,40838.4,62524.8,80992.79999999999,99460.79999999999,Research & Development role
+Saint John–St. Stephen Region,39628.8,63316.799999999996,82699.2,102081.6,Research & Development role
+Capitale-Nationale Region,45000.0,64382.4,87573.6,110764.8,Research & Development role
+Laval Region,45000.0,64382.4,87573.6,110764.8,Research & Development role
+Montréal Region,45000.0,64382.4,87573.6,110764.8,Research & Development role
+Montérégie Region,45000.0,64382.4,87573.6,110764.8,Research & Development role
+Northeast Region,43200.0,56721.6,82360.8,108000.0,Research & Development role
+Toronto Region,34560.0,66456.0,91036.8,115617.6,Research & Development role
+Winnipeg Region,40665.6,64987.200000000004,70920.0,76852.8,Research & Development role
+Regina–Moose Mountain Region,51840.0,65073.6,78228.0,91382.4,Research & Development role
+Calgary Region,42580.8,67680.0,91440.0,115200.0,Research & Development role
+Edmonton Region,48456.0,80640.0,90511.2,100382.4,Research & Development role
+Lower Mainland–Southwest Region,43200.0,66240.0,92527.20000000001,118814.40000000001,Research & Development role
+Vancouver Island and Coast Region,43200.0,62640.0,78048.0,93456.00000000001,Research & Development role
+Avalon Peninsula Region,43200.0,61200.0,85982.4,110764.8,Scientist
+Cape Breton Region,46728.00000000001,67262.4,88264.79999999999,109267.2,Scientist
+Halifax Region,42696.0,63619.2,79653.6,95688.0,Scientist
+North Shore Region,42004.8,59745.600000000006,75427.20000000001,91108.8,Scientist
+Southern Region,40838.4,62524.8,80992.79999999999,99460.79999999999,Scientist
+Saint John–St. Stephen Region,39628.8,63316.799999999996,82699.2,102081.6,Scientist
+Capitale-Nationale Region,45000.0,64382.4,87573.6,110764.8,Scientist
+Laval Region,45000.0,64382.4,87573.6,110764.8,Scientist
+Montréal Region,45000.0,64382.4,87573.6,110764.8,Scientist
+Montérégie Region,45000.0,64382.4,87573.6,110764.8,Scientist
+Northeast Region,43200.0,56721.6,82360.8,108000.0,Scientist
+Toronto Region,34560.0,66456.0,91036.8,115617.6,Scientist
+Winnipeg Region,40665.6,64987.200000000004,70920.0,76852.8,Scientist
+Regina–Moose Mountain Region,51840.0,65073.6,78228.0,91382.4,Scientist
+Calgary Region,42580.8,67680.0,91440.0,115200.0,Scientist
+Edmonton Region,48456.0,80640.0,90511.2,100382.4,Scientist
+Lower Mainland–Southwest Region,43200.0,66240.0,92527.20000000001,118814.40000000001,Scientist
+Vancouver Island and Coast Region,43200.0,62640.0,78048.0,93456.00000000001,Scientist
+Avalon Peninsula Region,43200.0,61200.0,85982.4,110764.8,Academic researcher
+Cape Breton Region,46728.00000000001,67262.4,88264.79999999999,109267.2,Academic researcher
+Halifax Region,42696.0,63619.2,79653.6,95688.0,Academic researcher
+North Shore Region,42004.8,59745.600000000006,75427.20000000001,91108.8,Academic researcher
+Southern Region,40838.4,62524.8,80992.79999999999,99460.79999999999,Academic researcher
+Saint John–St. Stephen Region,39628.8,63316.799999999996,82699.2,102081.6,Academic researcher
+Capitale-Nationale Region,45000.0,64382.4,87573.6,110764.8,Academic researcher
+Laval Region,45000.0,64382.4,87573.6,110764.8,Academic researcher
+Montréal Region,45000.0,64382.4,87573.6,110764.8,Academic researcher
+Montérégie Region,45000.0,64382.4,87573.6,110764.8,Academic researcher
+Northeast Region,43200.0,56721.6,82360.8,108000.0,Academic researcher
+Toronto Region,34560.0,66456.0,91036.8,115617.6,Academic researcher
+Winnipeg Region,40665.6,64987.200000000004,70920.0,76852.8,Academic researcher
+Regina–Moose Mountain Region,51840.0,65073.6,78228.0,91382.4,Academic researcher
+Calgary Region,42580.8,67680.0,91440.0,115200.0,Academic researcher
+Edmonton Region,48456.0,80640.0,90511.2,100382.4,Academic researcher
+Lower Mainland–Southwest Region,43200.0,66240.0,92527.20000000001,118814.40000000001,Academic researcher
+Vancouver Island and Coast Region,43200.0,62640.0,78048.0,93456.00000000001,Academic researcher
+Avalon Peninsula Region,43200.0,61200.0,85982.4,110764.8,Educator
+Cape Breton Region,46728.00000000001,67262.4,88264.79999999999,109267.2,Educator
+Halifax Region,42696.0,63619.2,79653.6,95688.0,Educator
+North Shore Region,42004.8,59745.600000000006,75427.20000000001,91108.8,Educator
+Southern Region,40838.4,62524.8,80992.79999999999,99460.79999999999,Educator
+Saint John–St. Stephen Region,39628.8,63316.799999999996,82699.2,102081.6,Educator
+Capitale-Nationale Region,45000.0,64382.4,87573.6,110764.8,Educator
+Laval Region,45000.0,64382.4,87573.6,110764.8,Educator
+Montréal Region,45000.0,64382.4,87573.6,110764.8,Educator
+Montérégie Region,45000.0,64382.4,87573.6,110764.8,Educator
+Northeast Region,43200.0,56721.6,82360.8,108000.0,Educator
+Toronto Region,34560.0,66456.0,91036.8,115617.6,Educator
+Winnipeg Region,40665.6,64987.200000000004,70920.0,76852.8,Educator
+Regina–Moose Mountain Region,51840.0,65073.6,78228.0,91382.4,Educator
+Calgary Region,42580.8,67680.0,91440.0,115200.0,Educator
+Edmonton Region,48456.0,80640.0,90511.2,100382.4,Educator
+Lower Mainland–Southwest Region,43200.0,66240.0,92527.20000000001,118814.40000000001,Educator
+Vancouver Island and Coast Region,43200.0,62640.0,78048.0,93456.00000000001,Educator
+Annapolis Valley Region,31795.199999999997,47563.200000000004,59371.2,71179.2,"Developer, back-end"
+Cape Breton Region,31219.2,46684.8,52776.0,58867.200000000004,"Developer, back-end"
+Halifax Region,24134.4,48484.8,57801.6,67118.4,"Developer, back-end"
+North Shore Region,31550.4,45993.6,54669.600000000006,63345.600000000006,"Developer, back-end"
+Capitale-Nationale Region,31680.0,47851.2,57153.6,66456.0,"Developer, back-end"
+Chaudière-Appalaches Region,31680.0,47851.2,57153.6,66456.0,"Developer, back-end"
+Lanaudière Region,31680.0,47851.2,57153.6,66456.0,"Developer, back-end"
+Laurentides Region,31680.0,47851.2,57153.6,66456.0,"Developer, back-end"
+Laval Region,31680.0,47851.2,57153.6,66456.0,"Developer, back-end"
+Montréal Region,31680.0,47851.2,57153.6,66456.0,"Developer, back-end"
+Montérégie Region,31680.0,47851.2,57153.6,66456.0,"Developer, back-end"
+Outaouais Region,31680.0,47851.2,57153.6,66456.0,"Developer, back-end"
+Hamilton–Niagara Peninsula Region,42724.8,55382.4,82382.4,109382.4,"Developer, back-end"
+Kingston–Pembroke Region,24926.399999999998,55065.600000000006,64454.4,73843.2,"Developer, back-end"
+Kitchener–Waterloo–Barrie Region,33926.4,53164.8,68119.2,83073.59999999999,"Developer, back-end"
+Muskoka–Kawarthas Region,29073.600000000002,51926.4,67500.0,83073.59999999999,"Developer, back-end"
+Ottawa Region,29073.600000000002,51926.4,67500.0,83073.59999999999,"Developer, back-end"
+Toronto Region,29073.600000000002,51926.4,67500.0,83073.59999999999,"Developer, back-end"
+Winnipeg Region,24926.399999999998,48456.0,60228.0,72000.0,"Developer, back-end"
+Calgary Region,31147.199999999997,51940.8,88279.20000000001,124617.6,"Developer, back-end"
+Edmonton Region,31147.199999999997,51940.8,88279.20000000001,124617.6,"Developer, back-end"
+Lower Mainland–Southwest Region,24120.0,55296.0,73951.20000000001,92606.40000000001,"Developer, back-end"
+Thompson–Okanagan Region,24120.0,46339.2,60098.4,73857.6,"Developer, back-end"
+Vancouver Island and Coast Region,24120.0,51422.4,61848.0,72273.59999999999,"Developer, back-end"
+Annapolis Valley Region,31795.199999999997,47563.200000000004,59371.2,71179.2,"Developer, full-stack"
+Cape Breton Region,31219.2,46684.8,52776.0,58867.200000000004,"Developer, full-stack"
+Halifax Region,24134.4,48484.8,57801.6,67118.4,"Developer, full-stack"
+North Shore Region,31550.4,45993.6,54669.600000000006,63345.600000000006,"Developer, full-stack"
+Capitale-Nationale Region,31680.0,47851.2,57153.6,66456.0,"Developer, full-stack"
+Chaudière-Appalaches Region,31680.0,47851.2,57153.6,66456.0,"Developer, full-stack"
+Lanaudière Region,31680.0,47851.2,57153.6,66456.0,"Developer, full-stack"
+Laurentides Region,31680.0,47851.2,57153.6,66456.0,"Developer, full-stack"
+Laval Region,31680.0,47851.2,57153.6,66456.0,"Developer, full-stack"
+Montréal Region,31680.0,47851.2,57153.6,66456.0,"Developer, full-stack"
+Montérégie Region,31680.0,47851.2,57153.6,66456.0,"Developer, full-stack"
+Outaouais Region,31680.0,47851.2,57153.6,66456.0,"Developer, full-stack"
+Hamilton–Niagara Peninsula Region,42724.8,55382.4,82382.4,109382.4,"Developer, full-stack"
+Kingston–Pembroke Region,24926.399999999998,55065.600000000006,64454.4,73843.2,"Developer, full-stack"
+Kitchener–Waterloo–Barrie Region,33926.4,53164.8,68119.2,83073.59999999999,"Developer, full-stack"
+Muskoka–Kawarthas Region,29073.600000000002,51926.4,67500.0,83073.59999999999,"Developer, full-stack"
+Ottawa Region,29073.600000000002,51926.4,67500.0,83073.59999999999,"Developer, full-stack"
+Toronto Region,29073.600000000002,51926.4,67500.0,83073.59999999999,"Developer, full-stack"
+Winnipeg Region,24926.399999999998,48456.0,60228.0,72000.0,"Developer, full-stack"
+Calgary Region,31147.199999999997,51940.8,88279.20000000001,124617.6,"Developer, full-stack"
+Edmonton Region,31147.199999999997,51940.8,88279.20000000001,124617.6,"Developer, full-stack"
+Lower Mainland–Southwest Region,24120.0,55296.0,73951.20000000001,92606.40000000001,"Developer, full-stack"
+Thompson–Okanagan Region,24120.0,46339.2,60098.4,73857.6,"Developer, full-stack"
+Vancouver Island and Coast Region,24120.0,51422.4,61848.0,72273.59999999999,"Developer, full-stack"
+Annapolis Valley Region,31795.199999999997,47563.200000000004,59371.2,71179.2,"Developer, front-end"
+Cape Breton Region,31219.2,46684.8,52776.0,58867.200000000004,"Developer, front-end"
+Halifax Region,24134.4,48484.8,57801.6,67118.4,"Developer, front-end"
+North Shore Region,31550.4,45993.6,54669.600000000006,63345.600000000006,"Developer, front-end"
+Capitale-Nationale Region,31680.0,47851.2,57153.6,66456.0,"Developer, front-end"
+Chaudière-Appalaches Region,31680.0,47851.2,57153.6,66456.0,"Developer, front-end"
+Lanaudière Region,31680.0,47851.2,57153.6,66456.0,"Developer, front-end"
+Laurentides Region,31680.0,47851.2,57153.6,66456.0,"Developer, front-end"
+Laval Region,31680.0,47851.2,57153.6,66456.0,"Developer, front-end"
+Montréal Region,31680.0,47851.2,57153.6,66456.0,"Developer, front-end"
+Montérégie Region,31680.0,47851.2,57153.6,66456.0,"Developer, front-end"
+Outaouais Region,31680.0,47851.2,57153.6,66456.0,"Developer, front-end"
+Hamilton–Niagara Peninsula Region,42724.8,55382.4,82382.4,109382.4,"Developer, front-end"
+Kingston–Pembroke Region,24926.399999999998,55065.600000000006,64454.4,73843.2,"Developer, front-end"
+Kitchener–Waterloo–Barrie Region,33926.4,53164.8,68119.2,83073.59999999999,"Developer, front-end"
+Muskoka–Kawarthas Region,29073.600000000002,51926.4,67500.0,83073.59999999999,"Developer, front-end"
+Ottawa Region,29073.600000000002,51926.4,67500.0,83073.59999999999,"Developer, front-end"
+Toronto Region,29073.600000000002,51926.4,67500.0,83073.59999999999,"Developer, front-end"
+Winnipeg Region,24926.399999999998,48456.0,60228.0,72000.0,"Developer, front-end"
+Calgary Region,31147.199999999997,51940.8,88279.20000000001,124617.6,"Developer, front-end"
+Edmonton Region,31147.199999999997,51940.8,88279.20000000001,124617.6,"Developer, front-end"
+Lower Mainland–Southwest Region,24120.0,55296.0,73951.20000000001,92606.40000000001,"Developer, front-end"
+Thompson–Okanagan Region,24120.0,46339.2,60098.4,73857.6,"Developer, front-end"
+Vancouver Island and Coast Region,24120.0,51422.4,61848.0,72273.59999999999,"Developer, front-end"
+Annapolis Valley Region,31795.199999999997,47563.200000000004,59371.2,71179.2,"Developer, desktop or enterprise applications"
+Cape Breton Region,31219.2,46684.8,52776.0,58867.200000000004,"Developer, desktop or enterprise applications"
+Halifax Region,24134.4,48484.8,57801.6,67118.4,"Developer, desktop or enterprise applications"
+North Shore Region,31550.4,45993.6,54669.600000000006,63345.600000000006,"Developer, desktop or enterprise applications"
+Capitale-Nationale Region,31680.0,47851.2,57153.6,66456.0,"Developer, desktop or enterprise applications"
+Chaudière-Appalaches Region,31680.0,47851.2,57153.6,66456.0,"Developer, desktop or enterprise applications"
+Lanaudière Region,31680.0,47851.2,57153.6,66456.0,"Developer, desktop or enterprise applications"
+Laurentides Region,31680.0,47851.2,57153.6,66456.0,"Developer, desktop or enterprise applications"
+Laval Region,31680.0,47851.2,57153.6,66456.0,"Developer, desktop or enterprise applications"
+Montréal Region,31680.0,47851.2,57153.6,66456.0,"Developer, desktop or enterprise applications"
+Montérégie Region,31680.0,47851.2,57153.6,66456.0,"Developer, desktop or enterprise applications"
+Outaouais Region,31680.0,47851.2,57153.6,66456.0,"Developer, desktop or enterprise applications"
+Hamilton–Niagara Peninsula Region,42724.8,55382.4,82382.4,109382.4,"Developer, desktop or enterprise applications"
+Kingston–Pembroke Region,24926.399999999998,55065.600000000006,64454.4,73843.2,"Developer, desktop or enterprise applications"
+Kitchener–Waterloo–Barrie Region,33926.4,53164.8,68119.2,83073.59999999999,"Developer, desktop or enterprise applications"
+Muskoka–Kawarthas Region,29073.600000000002,51926.4,67500.0,83073.59999999999,"Developer, desktop or enterprise applications"
+Ottawa Region,29073.600000000002,51926.4,67500.0,83073.59999999999,"Developer, desktop or enterprise applications"
+Toronto Region,29073.600000000002,51926.4,67500.0,83073.59999999999,"Developer, desktop or enterprise applications"
+Winnipeg Region,24926.399999999998,48456.0,60228.0,72000.0,"Developer, desktop or enterprise applications"
+Calgary Region,31147.199999999997,51940.8,88279.20000000001,124617.6,"Developer, desktop or enterprise applications"
+Edmonton Region,31147.199999999997,51940.8,88279.20000000001,124617.6,"Developer, desktop or enterprise applications"
+Lower Mainland–Southwest Region,24120.0,55296.0,73951.20000000001,92606.40000000001,"Developer, desktop or enterprise applications"
+Thompson–Okanagan Region,24120.0,46339.2,60098.4,73857.6,"Developer, desktop or enterprise applications"
+Vancouver Island and Coast Region,24120.0,51422.4,61848.0,72273.59999999999,"Developer, desktop or enterprise applications"
+Annapolis Valley Region,31795.199999999997,47563.200000000004,59371.2,71179.2,"Developer, mobile"
+Cape Breton Region,31219.2,46684.8,52776.0,58867.200000000004,"Developer, mobile"
+Halifax Region,24134.4,48484.8,57801.6,67118.4,"Developer, mobile"
+North Shore Region,31550.4,45993.6,54669.600000000006,63345.600000000006,"Developer, mobile"
+Capitale-Nationale Region,31680.0,47851.2,57153.6,66456.0,"Developer, mobile"
+Chaudière-Appalaches Region,31680.0,47851.2,57153.6,66456.0,"Developer, mobile"
+Lanaudière Region,31680.0,47851.2,57153.6,66456.0,"Developer, mobile"
+Laurentides Region,31680.0,47851.2,57153.6,66456.0,"Developer, mobile"
+Laval Region,31680.0,47851.2,57153.6,66456.0,"Developer, mobile"
+Montréal Region,31680.0,47851.2,57153.6,66456.0,"Developer, mobile"
+Montérégie Region,31680.0,47851.2,57153.6,66456.0,"Developer, mobile"
+Outaouais Region,31680.0,47851.2,57153.6,66456.0,"Developer, mobile"
+Hamilton–Niagara Peninsula Region,42724.8,55382.4,82382.4,109382.4,"Developer, mobile"
+Kingston–Pembroke Region,24926.399999999998,55065.600000000006,64454.4,73843.2,"Developer, mobile"
+Kitchener–Waterloo–Barrie Region,33926.4,53164.8,68119.2,83073.59999999999,"Developer, mobile"
+Muskoka–Kawarthas Region,29073.600000000002,51926.4,67500.0,83073.59999999999,"Developer, mobile"
+Ottawa Region,29073.600000000002,51926.4,67500.0,83073.59999999999,"Developer, mobile"
+Toronto Region,29073.600000000002,51926.4,67500.0,83073.59999999999,"Developer, mobile"
+Winnipeg Region,24926.399999999998,48456.0,60228.0,72000.0,"Developer, mobile"
+Calgary Region,31147.199999999997,51940.8,88279.20000000001,124617.6,"Developer, mobile"
+Edmonton Region,31147.199999999997,51940.8,88279.20000000001,124617.6,"Developer, mobile"
+Lower Mainland–Southwest Region,24120.0,55296.0,73951.20000000001,92606.40000000001,"Developer, mobile"
+Thompson–Okanagan Region,24120.0,46339.2,60098.4,73857.6,"Developer, mobile"
+Vancouver Island and Coast Region,24120.0,51422.4,61848.0,72273.59999999999,"Developer, mobile"
+Halifax Region,32097.6,51307.200000000004,69501.6,87696.0,Data scientist or machine learning specialist
+Montréal Region,35568.0,63720.0,86824.8,109929.6,Data scientist or machine learning specialist
+Montérégie Region,42681.6,65289.600000000006,75816.0,86342.4,Data scientist or machine learning specialist
+Hamilton–Niagara Peninsula Region,42048.0,67737.6,91728.0,115718.4,Data scientist or machine learning specialist
+Kitchener–Waterloo–Barrie Region,33494.4,66585.6,87861.6,109137.6,Data scientist or machine learning specialist
+Ottawa Region,39312.0,66225.6,89582.40000000001,112939.20000000001,Data scientist or machine learning specialist
+Toronto Region,39571.2,69667.2,92664.0,115660.79999999999,Data scientist or machine learning specialist
+Calgary Region,38894.4,61200.0,93160.8,125121.6,Data scientist or machine learning specialist
+Edmonton Region,45849.6,66628.8,84182.40000000001,101736.00000000001,Data scientist or machine learning specialist
+Lower Mainland–Southwest Region,33307.2,66052.8,92894.40000000001,119736.00000000001,Data scientist or machine learning specialist
+Halifax Region,32097.6,51307.200000000004,69501.6,87696.0,"Engineer, data"
+Montréal Region,35568.0,63720.0,86824.8,109929.6,"Engineer, data"
+Montérégie Region,42681.6,65289.600000000006,75816.0,86342.4,"Engineer, data"
+Hamilton–Niagara Peninsula Region,42048.0,67737.6,91728.0,115718.4,"Engineer, data"
+Kitchener–Waterloo–Barrie Region,33494.4,66585.6,87861.6,109137.6,"Engineer, data"
+Ottawa Region,39312.0,66225.6,89582.40000000001,112939.20000000001,"Engineer, data"
+Toronto Region,39571.2,69667.2,92664.0,115660.79999999999,"Engineer, data"
+Calgary Region,38894.4,61200.0,93160.8,125121.6,"Engineer, data"
+Edmonton Region,45849.6,66628.8,84182.40000000001,101736.00000000001,"Engineer, data"
+Lower Mainland–Southwest Region,33307.2,66052.8,92894.40000000001,119736.00000000001,"Engineer, data"
+Halifax Region,32097.6,51307.200000000004,69501.6,87696.0,Data or business analyst
+Montréal Region,35568.0,63720.0,86824.8,109929.6,Data or business analyst
+Montérégie Region,42681.6,65289.600000000006,75816.0,86342.4,Data or business analyst
+Hamilton–Niagara Peninsula Region,42048.0,67737.6,91728.0,115718.4,Data or business analyst
+Kitchener–Waterloo–Barrie Region,33494.4,66585.6,87861.6,109137.6,Data or business analyst
+Ottawa Region,39312.0,66225.6,89582.40000000001,112939.20000000001,Data or business analyst
+Toronto Region,39571.2,69667.2,92664.0,115660.79999999999,Data or business analyst
+Calgary Region,38894.4,61200.0,93160.8,125121.6,Data or business analyst
+Edmonton Region,45849.6,66628.8,84182.40000000001,101736.00000000001,Data or business analyst
+Lower Mainland–Southwest Region,33307.2,66052.8,92894.40000000001,119736.00000000001,Data or business analyst
+Annapolis Valley Region,38923.200000000004,54878.4,70776.0,86673.59999999999,"Developer, QA or test"
+Halifax Region,34214.4,51580.8,72280.79999999999,92980.79999999999,"Developer, QA or test"
+North Shore Region,35798.4,52761.6,68860.8,84960.0,"Developer, QA or test"
+Moncton–Richibucto Region,43200.0,48456.0,67428.0,86400.0,"Developer, QA or test"
+Capitale-Nationale Region,31017.6,53308.8,78580.8,103852.8,"Developer, QA or test"
+Lanaudière Region,27259.2,50788.8,63820.8,76852.8,"Developer, QA or test"
+Laurentides Region,40161.6,68097.6,81432.0,94766.40000000001,"Developer, QA or test"
+Laval Region,31492.800000000003,59572.799999999996,69501.59999999999,79430.4,"Developer, QA or test"
+Montréal Region,34660.8,57542.4,75909.6,94276.8,"Developer, QA or test"
+Montérégie Region,33868.8,58521.6,74008.8,89496.0,"Developer, QA or test"
+Hamilton–Niagara Peninsula Region,40320.0,57600.0,74952.0,92303.99999999999,"Developer, QA or test"
+Kitchener–Waterloo–Barrie Region,40838.4,57600.0,73800.0,90000.0,"Developer, QA or test"
+London Region,36072.0,56419.2,65649.6,74880.0,"Developer, QA or test"
+Muskoka–Kawarthas Region,34560.0,57600.0,72316.79999999999,87033.59999999999,"Developer, QA or test"
+Ottawa Region,39110.4,65404.8,83304.0,101203.2,"Developer, QA or test"
+Toronto Region,36921.6,59040.0,71056.79999999999,83073.59999999999,"Developer, QA or test"
+Windsor-Sarnia Region,39873.6,62308.8,85924.79999999999,109540.79999999999,"Developer, QA or test"
+Winnipeg Region,33840.0,45000.0,54900.0,64800.0,"Developer, QA or test"
+Regina–Moose Mountain Region,38880.0,67680.0,78840.0,90000.0,"Developer, QA or test"
+Saskatoon–Biggar Region,38880.0,67680.0,78840.0,90000.0,"Developer, QA or test"
+Edmonton Region,33768.0,66312.0,98136.0,129960.0,"Developer, QA or test"
+Lower Mainland–Southwest Region,29995.199999999997,63691.2,88617.59999999999,113543.99999999999,"Developer, QA or test"
+Vancouver Island and Coast Region,29995.199999999997,63691.2,88617.59999999999,113543.99999999999,"Developer, QA or test"
+Avalon Peninsula Region,58852.799999999996,93600.0,116028.0,138456.0,Engineering manager
+West Coast–Northern Peninsula–Labrador Region,69926.40000000001,97747.2,118116.0,138484.8,Engineering manager
+Halifax Region,64151.99999999999,69235.2,102924.0,136612.80000000002,Engineering manager
+North Shore Region,55353.6,79041.6,99885.6,120729.6,Engineering manager
+Fredericton–Oromocto,52430.399999999994,86400.0,102391.2,118382.4,Engineering manager
+Moncton–Richibucto Region,58219.2,77644.8,93664.8,109684.8,Engineering manager
+Saint John–St. Stephen Region,63475.2,88790.4,112946.4,137102.4,Engineering manager
+Abitibi-Témiscamingue Region,62308.8,94622.4,115617.6,136612.80000000002,Engineering manager
+Bas-Saint-Laurent Region,62308.8,94622.4,115617.6,136612.80000000002,Engineering manager
+Capitale-Nationale Region,62308.8,94622.4,115617.6,136612.80000000002,Engineering manager
+Centre-du-Québec Region,62308.8,94622.4,115617.6,136612.80000000002,Engineering manager
+Chaudière-Appalaches Region,62308.8,94622.4,115617.6,136612.80000000002,Engineering manager
+Lanaudière Region,62308.8,94622.4,115617.6,136612.80000000002,Engineering manager
+Laurentides Region,62308.8,94622.4,115617.6,136612.80000000002,Engineering manager
+Laval Region,62308.8,94622.4,115617.6,136612.80000000002,Engineering manager
+Montréal Region,62308.8,94622.4,115617.6,136612.80000000002,Engineering manager
+Montérégie Region,62308.8,94622.4,115617.6,136612.80000000002,Engineering manager
+Outaouais Region,62308.8,94622.4,115617.6,136612.80000000002,Engineering manager
+Saguenay–Lac-Saint-Jean Region,62308.8,94622.4,115617.6,136612.80000000002,Engineering manager
+Hamilton–Niagara Peninsula Region,56649.600000000006,88617.6,107078.40000000001,125539.20000000001,Engineering manager
+Kingston–Pembroke Region,56649.600000000006,88617.6,107078.40000000001,125539.20000000001,Engineering manager
+Kitchener–Waterloo–Barrie Region,61545.600000000006,79617.6,96300.0,112982.4,Engineering manager
+London Region,61617.6,87926.40000000001,95889.6,103852.8,Engineering manager
+Muskoka–Kawarthas Region,56649.600000000006,88617.6,107078.40000000001,125539.20000000001,Engineering manager
+Northeast Region,56649.600000000006,88617.6,107078.40000000001,125539.20000000001,Engineering manager
+Northwest Region,56649.600000000006,88617.6,107078.40000000001,125539.20000000001,Engineering manager
+Ottawa Region,50400.0,86544.0,117698.40000000001,148852.80000000002,Engineering manager
+Stratford–Bruce Peninsula Region,56649.600000000006,88617.6,107078.40000000001,125539.20000000001,Engineering manager
+Toronto Region,62035.2,88617.6,105508.8,122400.0,Engineering manager
+Windsor-Sarnia Region,56649.600000000006,88617.6,107078.40000000001,125539.20000000001,Engineering manager
+Winnipeg Region,59544.0,76147.2,115113.6,154080.0,Engineering manager
+Regina–Moose Mountain Region,54720.0,90993.59999999999,116704.79999999999,142416.0,Engineering manager
+Saskatoon–Biggar Region,45676.799999999996,85492.8,113220.0,140947.19999999998,Engineering manager
+Calgary Region,64800.0,103852.8,131544.0,159235.2,Engineering manager
+Camrose–Drumheller Region,64800.0,103852.8,131544.0,159235.2,Engineering manager
+Edmonton Region,68126.40000000001,86328.0,119318.4,152308.8,Engineering manager
+Red Deer Region,64800.0,103852.8,131544.0,159235.2,Engineering manager
+Cariboo Region,60480.0,86400.0,107236.79999999999,128073.59999999999,Engineering manager
+Kootenay Region,60480.0,86400.0,107236.79999999999,128073.59999999999,Engineering manager
+Lower Mainland–Southwest Region,63000.0,88056.0,120182.4,152308.8,Engineering manager
+Thompson–Okanagan Region,60480.0,86400.0,107236.79999999999,128073.59999999999,Engineering manager
+Vancouver Island and Coast Region,60480.0,75168.0,101620.79999999999,128073.59999999999,Engineering manager
+Avalon Peninsula Region,58852.799999999996,93600.0,116028.0,138456.0,Product manager
+West Coast–Northern Peninsula–Labrador Region,69926.40000000001,97747.2,118116.0,138484.8,Product manager
+Halifax Region,64151.99999999999,69235.2,102924.0,136612.80000000002,Product manager
+North Shore Region,55353.6,79041.6,99885.6,120729.6,Product manager
+Fredericton–Oromocto,52430.399999999994,86400.0,102391.2,118382.4,Product manager
+Moncton–Richibucto Region,58219.2,77644.8,93664.8,109684.8,Product manager
+Saint John–St. Stephen Region,63475.2,88790.4,112946.4,137102.4,Product manager
+Abitibi-Témiscamingue Region,62308.8,94622.4,115617.6,136612.80000000002,Product manager
+Bas-Saint-Laurent Region,62308.8,94622.4,115617.6,136612.80000000002,Product manager
+Capitale-Nationale Region,62308.8,94622.4,115617.6,136612.80000000002,Product manager
+Centre-du-Québec Region,62308.8,94622.4,115617.6,136612.80000000002,Product manager
+Chaudière-Appalaches Region,62308.8,94622.4,115617.6,136612.80000000002,Product manager
+Lanaudière Region,62308.8,94622.4,115617.6,136612.80000000002,Product manager
+Laurentides Region,62308.8,94622.4,115617.6,136612.80000000002,Product manager
+Laval Region,62308.8,94622.4,115617.6,136612.80000000002,Product manager
+Montréal Region,62308.8,94622.4,115617.6,136612.80000000002,Product manager
+Montérégie Region,62308.8,94622.4,115617.6,136612.80000000002,Product manager
+Outaouais Region,62308.8,94622.4,115617.6,136612.80000000002,Product manager
+Saguenay–Lac-Saint-Jean Region,62308.8,94622.4,115617.6,136612.80000000002,Product manager
+Hamilton–Niagara Peninsula Region,56649.600000000006,88617.6,107078.40000000001,125539.20000000001,Product manager
+Kingston–Pembroke Region,56649.600000000006,88617.6,107078.40000000001,125539.20000000001,Product manager
+Kitchener–Waterloo–Barrie Region,61545.600000000006,79617.6,96300.0,112982.4,Product manager
+London Region,61617.6,87926.40000000001,95889.6,103852.8,Product manager
+Muskoka–Kawarthas Region,56649.600000000006,88617.6,107078.40000000001,125539.20000000001,Product manager
+Northeast Region,56649.600000000006,88617.6,107078.40000000001,125539.20000000001,Product manager
+Northwest Region,56649.600000000006,88617.6,107078.40000000001,125539.20000000001,Product manager
+Ottawa Region,50400.0,86544.0,117698.40000000001,148852.80000000002,Product manager
+Stratford–Bruce Peninsula Region,56649.600000000006,88617.6,107078.40000000001,125539.20000000001,Product manager
+Toronto Region,62035.2,88617.6,105508.8,122400.0,Product manager
+Windsor-Sarnia Region,56649.600000000006,88617.6,107078.40000000001,125539.20000000001,Product manager
+Winnipeg Region,59544.0,76147.2,115113.6,154080.0,Product manager
+Regina–Moose Mountain Region,54720.0,90993.59999999999,116704.79999999999,142416.0,Product manager
+Saskatoon–Biggar Region,45676.799999999996,85492.8,113220.0,140947.19999999998,Product manager
+Calgary Region,64800.0,103852.8,131544.0,159235.2,Product manager
+Camrose–Drumheller Region,64800.0,103852.8,131544.0,159235.2,Product manager
+Edmonton Region,68126.40000000001,86328.0,119318.4,152308.8,Product manager
+Red Deer Region,64800.0,103852.8,131544.0,159235.2,Product manager
+Cariboo Region,60480.0,86400.0,107236.79999999999,128073.59999999999,Product manager
+Kootenay Region,60480.0,86400.0,107236.79999999999,128073.59999999999,Product manager
+Lower Mainland–Southwest Region,63000.0,88056.0,120182.4,152308.8,Product manager
+Thompson–Okanagan Region,60480.0,86400.0,107236.79999999999,128073.59999999999,Product manager
+Vancouver Island and Coast Region,60480.0,75168.0,101620.79999999999,128073.59999999999,Product manager
+Avalon Peninsula Region,58852.799999999996,93600.0,116028.0,138456.0,"Senior Executive (C-Suite, VP, etc.)"
+West Coast–Northern Peninsula–Labrador Region,69926.40000000001,97747.2,118116.0,138484.8,"Senior Executive (C-Suite, VP, etc.)"
+Halifax Region,64151.99999999999,69235.2,102924.0,136612.80000000002,"Senior Executive (C-Suite, VP, etc.)"
+North Shore Region,55353.6,79041.6,99885.6,120729.6,"Senior Executive (C-Suite, VP, etc.)"
+Fredericton–Oromocto,52430.399999999994,86400.0,102391.2,118382.4,"Senior Executive (C-Suite, VP, etc.)"
+Moncton–Richibucto Region,58219.2,77644.8,93664.8,109684.8,"Senior Executive (C-Suite, VP, etc.)"
+Saint John–St. Stephen Region,63475.2,88790.4,112946.4,137102.4,"Senior Executive (C-Suite, VP, etc.)"
+Abitibi-Témiscamingue Region,62308.8,94622.4,115617.6,136612.80000000002,"Senior Executive (C-Suite, VP, etc.)"
+Bas-Saint-Laurent Region,62308.8,94622.4,115617.6,136612.80000000002,"Senior Executive (C-Suite, VP, etc.)"
+Capitale-Nationale Region,62308.8,94622.4,115617.6,136612.80000000002,"Senior Executive (C-Suite, VP, etc.)"
+Centre-du-Québec Region,62308.8,94622.4,115617.6,136612.80000000002,"Senior Executive (C-Suite, VP, etc.)"
+Chaudière-Appalaches Region,62308.8,94622.4,115617.6,136612.80000000002,"Senior Executive (C-Suite, VP, etc.)"
+Lanaudière Region,62308.8,94622.4,115617.6,136612.80000000002,"Senior Executive (C-Suite, VP, etc.)"
+Laurentides Region,62308.8,94622.4,115617.6,136612.80000000002,"Senior Executive (C-Suite, VP, etc.)"
+Laval Region,62308.8,94622.4,115617.6,136612.80000000002,"Senior Executive (C-Suite, VP, etc.)"
+Montréal Region,62308.8,94622.4,115617.6,136612.80000000002,"Senior Executive (C-Suite, VP, etc.)"
+Montérégie Region,62308.8,94622.4,115617.6,136612.80000000002,"Senior Executive (C-Suite, VP, etc.)"
+Outaouais Region,62308.8,94622.4,115617.6,136612.80000000002,"Senior Executive (C-Suite, VP, etc.)"
+Saguenay–Lac-Saint-Jean Region,62308.8,94622.4,115617.6,136612.80000000002,"Senior Executive (C-Suite, VP, etc.)"
+Hamilton–Niagara Peninsula Region,56649.600000000006,88617.6,107078.40000000001,125539.20000000001,"Senior Executive (C-Suite, VP, etc.)"
+Kingston–Pembroke Region,56649.600000000006,88617.6,107078.40000000001,125539.20000000001,"Senior Executive (C-Suite, VP, etc.)"
+Kitchener–Waterloo–Barrie Region,61545.600000000006,79617.6,96300.0,112982.4,"Senior Executive (C-Suite, VP, etc.)"
+London Region,61617.6,87926.40000000001,95889.6,103852.8,"Senior Executive (C-Suite, VP, etc.)"
+Muskoka–Kawarthas Region,56649.600000000006,88617.6,107078.40000000001,125539.20000000001,"Senior Executive (C-Suite, VP, etc.)"
+Northeast Region,56649.600000000006,88617.6,107078.40000000001,125539.20000000001,"Senior Executive (C-Suite, VP, etc.)"
+Northwest Region,56649.600000000006,88617.6,107078.40000000001,125539.20000000001,"Senior Executive (C-Suite, VP, etc.)"
+Ottawa Region,50400.0,86544.0,117698.40000000001,148852.80000000002,"Senior Executive (C-Suite, VP, etc.)"
+Stratford–Bruce Peninsula Region,56649.600000000006,88617.6,107078.40000000001,125539.20000000001,"Senior Executive (C-Suite, VP, etc.)"
+Toronto Region,62035.2,88617.6,105508.8,122400.0,"Senior Executive (C-Suite, VP, etc.)"
+Windsor-Sarnia Region,56649.600000000006,88617.6,107078.40000000001,125539.20000000001,"Senior Executive (C-Suite, VP, etc.)"
+Winnipeg Region,59544.0,76147.2,115113.6,154080.0,"Senior Executive (C-Suite, VP, etc.)"
+Regina–Moose Mountain Region,54720.0,90993.59999999999,116704.79999999999,142416.0,"Senior Executive (C-Suite, VP, etc.)"
+Saskatoon–Biggar Region,45676.799999999996,85492.8,113220.0,140947.19999999998,"Senior Executive (C-Suite, VP, etc.)"
+Calgary Region,64800.0,103852.8,131544.0,159235.2,"Senior Executive (C-Suite, VP, etc.)"
+Camrose–Drumheller Region,64800.0,103852.8,131544.0,159235.2,"Senior Executive (C-Suite, VP, etc.)"
+Edmonton Region,68126.40000000001,86328.0,119318.4,152308.8,"Senior Executive (C-Suite, VP, etc.)"
+Red Deer Region,64800.0,103852.8,131544.0,159235.2,"Senior Executive (C-Suite, VP, etc.)"
+Cariboo Region,60480.0,86400.0,107236.79999999999,128073.59999999999,"Senior Executive (C-Suite, VP, etc.)"
+Kootenay Region,60480.0,86400.0,107236.79999999999,128073.59999999999,"Senior Executive (C-Suite, VP, etc.)"
+Lower Mainland–Southwest Region,63000.0,88056.0,120182.4,152308.8,"Senior Executive (C-Suite, VP, etc.)"
+Thompson–Okanagan Region,60480.0,86400.0,107236.79999999999,128073.59999999999,"Senior Executive (C-Suite, VP, etc.)"
+Vancouver Island and Coast Region,60480.0,75168.0,101620.79999999999,128073.59999999999,"Senior Executive (C-Suite, VP, etc.)"
+Avalon Peninsula Region,58852.799999999996,93600.0,116028.0,138456.0,Project manager
+West Coast–Northern Peninsula–Labrador Region,69926.40000000001,97747.2,118116.0,138484.8,Project manager
+Halifax Region,64151.99999999999,69235.2,102924.0,136612.80000000002,Project manager
+North Shore Region,55353.6,79041.6,99885.6,120729.6,Project manager
+Fredericton–Oromocto,52430.399999999994,86400.0,102391.2,118382.4,Project manager
+Moncton–Richibucto Region,58219.2,77644.8,93664.8,109684.8,Project manager
+Saint John–St. Stephen Region,63475.2,88790.4,112946.4,137102.4,Project manager
+Abitibi-Témiscamingue Region,62308.8,94622.4,115617.6,136612.80000000002,Project manager
+Bas-Saint-Laurent Region,62308.8,94622.4,115617.6,136612.80000000002,Project manager
+Capitale-Nationale Region,62308.8,94622.4,115617.6,136612.80000000002,Project manager
+Centre-du-Québec Region,62308.8,94622.4,115617.6,136612.80000000002,Project manager
+Chaudière-Appalaches Region,62308.8,94622.4,115617.6,136612.80000000002,Project manager
+Lanaudière Region,62308.8,94622.4,115617.6,136612.80000000002,Project manager
+Laurentides Region,62308.8,94622.4,115617.6,136612.80000000002,Project manager
+Laval Region,62308.8,94622.4,115617.6,136612.80000000002,Project manager
+Montréal Region,62308.8,94622.4,115617.6,136612.80000000002,Project manager
+Montérégie Region,62308.8,94622.4,115617.6,136612.80000000002,Project manager
+Outaouais Region,62308.8,94622.4,115617.6,136612.80000000002,Project manager
+Saguenay–Lac-Saint-Jean Region,62308.8,94622.4,115617.6,136612.80000000002,Project manager
+Hamilton–Niagara Peninsula Region,56649.600000000006,88617.6,107078.40000000001,125539.20000000001,Project manager
+Kingston–Pembroke Region,56649.600000000006,88617.6,107078.40000000001,125539.20000000001,Project manager
+Kitchener–Waterloo–Barrie Region,61545.600000000006,79617.6,96300.0,112982.4,Project manager
+London Region,61617.6,87926.40000000001,95889.6,103852.8,Project manager
+Muskoka–Kawarthas Region,56649.600000000006,88617.6,107078.40000000001,125539.20000000001,Project manager
+Northeast Region,56649.600000000006,88617.6,107078.40000000001,125539.20000000001,Project manager
+Northwest Region,56649.600000000006,88617.6,107078.40000000001,125539.20000000001,Project manager
+Ottawa Region,50400.0,86544.0,117698.40000000001,148852.80000000002,Project manager
+Stratford–Bruce Peninsula Region,56649.600000000006,88617.6,107078.40000000001,125539.20000000001,Project manager
+Toronto Region,62035.2,88617.6,105508.8,122400.0,Project manager
+Windsor-Sarnia Region,56649.600000000006,88617.6,107078.40000000001,125539.20000000001,Project manager
+Winnipeg Region,59544.0,76147.2,115113.6,154080.0,Project manager
+Regina–Moose Mountain Region,54720.0,90993.59999999999,116704.79999999999,142416.0,Project manager
+Saskatoon–Biggar Region,45676.799999999996,85492.8,113220.0,140947.19999999998,Project manager
+Calgary Region,64800.0,103852.8,131544.0,159235.2,Project manager
+Camrose–Drumheller Region,64800.0,103852.8,131544.0,159235.2,Project manager
+Edmonton Region,68126.40000000001,86328.0,119318.4,152308.8,Project manager
+Red Deer Region,64800.0,103852.8,131544.0,159235.2,Project manager
+Cariboo Region,60480.0,86400.0,107236.79999999999,128073.59999999999,Project manager
+Kootenay Region,60480.0,86400.0,107236.79999999999,128073.59999999999,Project manager
+Lower Mainland–Southwest Region,63000.0,88056.0,120182.4,152308.8,Project manager
+Thompson–Okanagan Region,60480.0,86400.0,107236.79999999999,128073.59999999999,Project manager
+Vancouver Island and Coast Region,60480.0,75168.0,101620.79999999999,128073.59999999999,Project manager
+Avalon Peninsula Region,34617.6,67248.0,78278.4,89308.8,Security professional
+Halifax Region,34502.4,58204.8,73951.20000000001,89697.6,Security professional
+North Shore Region,40348.8,61387.200000000004,78127.2,94867.2,Security professional
+Campbellton–Miramichi Region,40305.6,58507.200000000004,71517.6,84528.0,Security professional
+Fredericton–Oromocto,47361.6,67694.4,93384.0,119073.59999999999,Security professional
+Moncton–Richibucto Region,41054.4,56678.4,75657.6,94636.8,Security professional
+Saint John–St. Stephen Region,39758.4,61041.6,81561.6,102081.6,Security professional
+Capitale-Nationale Region,43200.0,70891.2,80445.6,90000.0,Security professional
+Chaudière-Appalaches Region,43200.0,70891.2,80445.6,90000.0,Security professional
+Lanaudière Region,43200.0,70891.2,80445.6,90000.0,Security professional
+Laurentides Region,43200.0,70891.2,80445.6,90000.0,Security professional
+Laval Region,43200.0,70891.2,80445.6,90000.0,Security professional
+Montréal Region,36000.0,70891.2,80445.6,90000.0,Security professional
+Montérégie Region,43200.0,70891.2,80445.6,90000.0,Security professional
+Outaouais Region,43200.0,70891.2,80445.6,90000.0,Security professional
+Saguenay–Lac-Saint-Jean Region,43200.0,70891.2,80445.6,90000.0,Security professional
+Hamilton–Niagara Peninsula Region,51926.4,69235.2,91634.4,114033.59999999999,Security professional
+Kingston–Pembroke Region,46151.99999999999,74073.59999999999,95882.4,117691.20000000001,Security professional
+Kitchener–Waterloo–Barrie Region,46151.99999999999,74073.59999999999,95882.4,117691.20000000001,Security professional
+London Region,47073.6,64785.600000000006,91468.8,118152.0,Security professional
+Muskoka–Kawarthas Region,46151.99999999999,74073.59999999999,95882.4,117691.20000000001,Security professional
+Ottawa Region,44308.8,76147.2,90000.0,103852.8,Security professional
+Stratford–Bruce Peninsula Region,46151.99999999999,74073.59999999999,95882.4,117691.20000000001,Security professional
+Toronto Region,46728.00000000001,76147.2,97149.6,118152.0,Security professional
+Windsor-Sarnia Region,28800.0,75283.2,96487.20000000001,117691.20000000001,Security professional
+Winnipeg Region,38764.8,51926.4,61272.0,70617.6,Security professional
+Regina–Moose Mountain Region,41544.0,63000.0,75808.8,88617.6,Security professional
+Saskatoon–Biggar Region,41544.0,63000.0,75808.8,88617.6,Security professional
+Calgary Region,42825.6,76147.2,93456.0,110764.8,Security professional
+Edmonton Region,47995.2,65764.8,84808.8,103852.8,Security professional
+Lower Mainland–Southwest Region,45000.0,77544.0,101080.8,124617.6,Security professional
+Vancouver Island and Coast Region,54000.0,75168.0,89510.4,103852.8,Security professional
+Avalon Peninsula Region,34617.6,67248.0,78278.4,89308.8,Cloud infrastructure engineer
+Halifax Region,34502.4,58204.8,73951.20000000001,89697.6,Cloud infrastructure engineer
+North Shore Region,40348.8,61387.200000000004,78127.2,94867.2,Cloud infrastructure engineer
+Campbellton–Miramichi Region,40305.6,58507.200000000004,71517.6,84528.0,Cloud infrastructure engineer
+Fredericton–Oromocto,47361.6,67694.4,93384.0,119073.59999999999,Cloud infrastructure engineer
+Moncton–Richibucto Region,41054.4,56678.4,75657.6,94636.8,Cloud infrastructure engineer
+Saint John–St. Stephen Region,39758.4,61041.6,81561.6,102081.6,Cloud infrastructure engineer
+Capitale-Nationale Region,43200.0,70891.2,80445.6,90000.0,Cloud infrastructure engineer
+Chaudière-Appalaches Region,43200.0,70891.2,80445.6,90000.0,Cloud infrastructure engineer
+Lanaudière Region,43200.0,70891.2,80445.6,90000.0,Cloud infrastructure engineer
+Laurentides Region,43200.0,70891.2,80445.6,90000.0,Cloud infrastructure engineer
+Laval Region,43200.0,70891.2,80445.6,90000.0,Cloud infrastructure engineer
+Montréal Region,36000.0,70891.2,80445.6,90000.0,Cloud infrastructure engineer
+Montérégie Region,43200.0,70891.2,80445.6,90000.0,Cloud infrastructure engineer
+Outaouais Region,43200.0,70891.2,80445.6,90000.0,Cloud infrastructure engineer
+Saguenay–Lac-Saint-Jean Region,43200.0,70891.2,80445.6,90000.0,Cloud infrastructure engineer
+Hamilton–Niagara Peninsula Region,51926.4,69235.2,91634.4,114033.59999999999,Cloud infrastructure engineer
+Kingston–Pembroke Region,46151.99999999999,74073.59999999999,95882.4,117691.20000000001,Cloud infrastructure engineer
+Kitchener–Waterloo–Barrie Region,46151.99999999999,74073.59999999999,95882.4,117691.20000000001,Cloud infrastructure engineer
+London Region,47073.6,64785.600000000006,91468.8,118152.0,Cloud infrastructure engineer
+Muskoka–Kawarthas Region,46151.99999999999,74073.59999999999,95882.4,117691.20000000001,Cloud infrastructure engineer
+Ottawa Region,44308.8,76147.2,90000.0,103852.8,Cloud infrastructure engineer
+Stratford–Bruce Peninsula Region,46151.99999999999,74073.59999999999,95882.4,117691.20000000001,Cloud infrastructure engineer
+Toronto Region,46728.00000000001,76147.2,97149.6,118152.0,Cloud infrastructure engineer
+Windsor-Sarnia Region,28800.0,75283.2,96487.20000000001,117691.20000000001,Cloud infrastructure engineer
+Winnipeg Region,38764.8,51926.4,61272.0,70617.6,Cloud infrastructure engineer
+Regina–Moose Mountain Region,41544.0,63000.0,75808.8,88617.6,Cloud infrastructure engineer
+Saskatoon–Biggar Region,41544.0,63000.0,75808.8,88617.6,Cloud infrastructure engineer
+Calgary Region,42825.6,76147.2,93456.0,110764.8,Cloud infrastructure engineer
+Edmonton Region,47995.2,65764.8,84808.8,103852.8,Cloud infrastructure engineer
+Lower Mainland–Southwest Region,45000.0,77544.0,101080.8,124617.6,Cloud infrastructure engineer
+Vancouver Island and Coast Region,54000.0,75168.0,89510.4,103852.8,Cloud infrastructure engineer
+Avalon Peninsula Region,34617.6,67248.0,78278.4,89308.8,System administrator
+Halifax Region,34502.4,58204.8,73951.20000000001,89697.6,System administrator
+North Shore Region,40348.8,61387.200000000004,78127.2,94867.2,System administrator
+Campbellton–Miramichi Region,40305.6,58507.200000000004,71517.6,84528.0,System administrator
+Fredericton–Oromocto,47361.6,67694.4,93384.0,119073.59999999999,System administrator
+Moncton–Richibucto Region,41054.4,56678.4,75657.6,94636.8,System administrator
+Saint John–St. Stephen Region,39758.4,61041.6,81561.6,102081.6,System administrator
+Capitale-Nationale Region,43200.0,70891.2,80445.6,90000.0,System administrator
+Chaudière-Appalaches Region,43200.0,70891.2,80445.6,90000.0,System administrator
+Lanaudière Region,43200.0,70891.2,80445.6,90000.0,System administrator
+Laurentides Region,43200.0,70891.2,80445.6,90000.0,System administrator
+Laval Region,43200.0,70891.2,80445.6,90000.0,System administrator
+Montréal Region,36000.0,70891.2,80445.6,90000.0,System administrator
+Montérégie Region,43200.0,70891.2,80445.6,90000.0,System administrator
+Outaouais Region,43200.0,70891.2,80445.6,90000.0,System administrator
+Saguenay–Lac-Saint-Jean Region,43200.0,70891.2,80445.6,90000.0,System administrator
+Hamilton–Niagara Peninsula Region,51926.4,69235.2,91634.4,114033.59999999999,System administrator
+Kingston–Pembroke Region,46151.99999999999,74073.59999999999,95882.4,117691.20000000001,System administrator
+Kitchener–Waterloo–Barrie Region,46151.99999999999,74073.59999999999,95882.4,117691.20000000001,System administrator
+London Region,47073.6,64785.600000000006,91468.8,118152.0,System administrator
+Muskoka–Kawarthas Region,46151.99999999999,74073.59999999999,95882.4,117691.20000000001,System administrator
+Ottawa Region,44308.8,76147.2,90000.0,103852.8,System administrator
+Stratford–Bruce Peninsula Region,46151.99999999999,74073.59999999999,95882.4,117691.20000000001,System administrator
+Toronto Region,46728.00000000001,76147.2,97149.6,118152.0,System administrator
+Windsor-Sarnia Region,28800.0,75283.2,96487.20000000001,117691.20000000001,System administrator
+Winnipeg Region,38764.8,51926.4,61272.0,70617.6,System administrator
+Regina–Moose Mountain Region,41544.0,63000.0,75808.8,88617.6,System administrator
+Saskatoon–Biggar Region,41544.0,63000.0,75808.8,88617.6,System administrator
+Calgary Region,42825.6,76147.2,93456.0,110764.8,System administrator
+Edmonton Region,47995.2,65764.8,84808.8,103852.8,System administrator
+Lower Mainland–Southwest Region,45000.0,77544.0,101080.8,124617.6,System administrator
+Vancouver Island and Coast Region,54000.0,75168.0,89510.4,103852.8,System administrator
+Avalon Peninsula Region,34617.6,67248.0,78278.4,89308.8,"Engineer, site reliability"
+Halifax Region,34502.4,58204.8,73951.20000000001,89697.6,"Engineer, site reliability"
+North Shore Region,40348.8,61387.200000000004,78127.2,94867.2,"Engineer, site reliability"
+Campbellton–Miramichi Region,40305.6,58507.200000000004,71517.6,84528.0,"Engineer, site reliability"
+Fredericton–Oromocto,47361.6,67694.4,93384.0,119073.59999999999,"Engineer, site reliability"
+Moncton–Richibucto Region,41054.4,56678.4,75657.6,94636.8,"Engineer, site reliability"
+Saint John–St. Stephen Region,39758.4,61041.6,81561.6,102081.6,"Engineer, site reliability"
+Capitale-Nationale Region,43200.0,70891.2,80445.6,90000.0,"Engineer, site reliability"
+Chaudière-Appalaches Region,43200.0,70891.2,80445.6,90000.0,"Engineer, site reliability"
+Lanaudière Region,43200.0,70891.2,80445.6,90000.0,"Engineer, site reliability"
+Laurentides Region,43200.0,70891.2,80445.6,90000.0,"Engineer, site reliability"
+Laval Region,43200.0,70891.2,80445.6,90000.0,"Engineer, site reliability"
+Montréal Region,36000.0,70891.2,80445.6,90000.0,"Engineer, site reliability"
+Montérégie Region,43200.0,70891.2,80445.6,90000.0,"Engineer, site reliability"
+Outaouais Region,43200.0,70891.2,80445.6,90000.0,"Engineer, site reliability"
+Saguenay–Lac-Saint-Jean Region,43200.0,70891.2,80445.6,90000.0,"Engineer, site reliability"
+Hamilton–Niagara Peninsula Region,51926.4,69235.2,91634.4,114033.59999999999,"Engineer, site reliability"
+Kingston–Pembroke Region,46151.99999999999,74073.59999999999,95882.4,117691.20000000001,"Engineer, site reliability"
+Kitchener–Waterloo–Barrie Region,46151.99999999999,74073.59999999999,95882.4,117691.20000000001,"Engineer, site reliability"
+London Region,47073.6,64785.600000000006,91468.8,118152.0,"Engineer, site reliability"
+Muskoka–Kawarthas Region,46151.99999999999,74073.59999999999,95882.4,117691.20000000001,"Engineer, site reliability"
+Ottawa Region,44308.8,76147.2,90000.0,103852.8,"Engineer, site reliability"
+Stratford–Bruce Peninsula Region,46151.99999999999,74073.59999999999,95882.4,117691.20000000001,"Engineer, site reliability"
+Toronto Region,46728.00000000001,76147.2,97149.6,118152.0,"Engineer, site reliability"
+Windsor-Sarnia Region,28800.0,75283.2,96487.20000000001,117691.20000000001,"Engineer, site reliability"
+Winnipeg Region,38764.8,51926.4,61272.0,70617.6,"Engineer, site reliability"
+Regina–Moose Mountain Region,41544.0,63000.0,75808.8,88617.6,"Engineer, site reliability"
+Saskatoon–Biggar Region,41544.0,63000.0,75808.8,88617.6,"Engineer, site reliability"
+Calgary Region,42825.6,76147.2,93456.0,110764.8,"Engineer, site reliability"
+Edmonton Region,47995.2,65764.8,84808.8,103852.8,"Engineer, site reliability"
+Lower Mainland–Southwest Region,45000.0,77544.0,101080.8,124617.6,"Engineer, site reliability"
+Vancouver Island and Coast Region,54000.0,75168.0,89510.4,103852.8,"Engineer, site reliability"
+Avalon Peninsula Region,34617.6,67248.0,78278.4,89308.8,Database administrator
+Halifax Region,34502.4,58204.8,73951.20000000001,89697.6,Database administrator
+North Shore Region,40348.8,61387.200000000004,78127.2,94867.2,Database administrator
+Campbellton–Miramichi Region,40305.6,58507.200000000004,71517.6,84528.0,Database administrator
+Fredericton–Oromocto,47361.6,67694.4,93384.0,119073.59999999999,Database administrator
+Moncton–Richibucto Region,41054.4,56678.4,75657.6,94636.8,Database administrator
+Saint John–St. Stephen Region,39758.4,61041.6,81561.6,102081.6,Database administrator
+Capitale-Nationale Region,43200.0,70891.2,80445.6,90000.0,Database administrator
+Chaudière-Appalaches Region,43200.0,70891.2,80445.6,90000.0,Database administrator
+Lanaudière Region,43200.0,70891.2,80445.6,90000.0,Database administrator
+Laurentides Region,43200.0,70891.2,80445.6,90000.0,Database administrator
+Laval Region,43200.0,70891.2,80445.6,90000.0,Database administrator
+Montréal Region,36000.0,70891.2,80445.6,90000.0,Database administrator
+Montérégie Region,43200.0,70891.2,80445.6,90000.0,Database administrator
+Outaouais Region,43200.0,70891.2,80445.6,90000.0,Database administrator
+Saguenay–Lac-Saint-Jean Region,43200.0,70891.2,80445.6,90000.0,Database administrator
+Hamilton–Niagara Peninsula Region,51926.4,69235.2,91634.4,114033.59999999999,Database administrator
+Kingston–Pembroke Region,46151.99999999999,74073.59999999999,95882.4,117691.20000000001,Database administrator
+Kitchener–Waterloo–Barrie Region,46151.99999999999,74073.59999999999,95882.4,117691.20000000001,Database administrator
+London Region,47073.6,64785.600000000006,91468.8,118152.0,Database administrator
+Muskoka–Kawarthas Region,46151.99999999999,74073.59999999999,95882.4,117691.20000000001,Database administrator
+Ottawa Region,44308.8,76147.2,90000.0,103852.8,Database administrator
+Stratford–Bruce Peninsula Region,46151.99999999999,74073.59999999999,95882.4,117691.20000000001,Database administrator
+Toronto Region,46728.00000000001,76147.2,97149.6,118152.0,Database administrator
+Windsor-Sarnia Region,28800.0,75283.2,96487.20000000001,117691.20000000001,Database administrator
+Winnipeg Region,38764.8,51926.4,61272.0,70617.6,Database administrator
+Regina–Moose Mountain Region,41544.0,63000.0,75808.8,88617.6,Database administrator
+Saskatoon–Biggar Region,41544.0,63000.0,75808.8,88617.6,Database administrator
+Calgary Region,42825.6,76147.2,93456.0,110764.8,Database administrator
+Edmonton Region,47995.2,65764.8,84808.8,103852.8,Database administrator
+Lower Mainland–Southwest Region,45000.0,77544.0,101080.8,124617.6,Database administrator
+Vancouver Island and Coast Region,54000.0,75168.0,89510.4,103852.8,Database administrator
+Avalon Peninsula Region,31680.0,54691.2,74030.4,93369.6,"Developer, game or graphics"
+Annapolis Valley Region,30916.8,55382.4,70891.2,86400.0,"Developer, game or graphics"
+Cape Breton Region,37872.0,52358.4,61610.399999999994,70862.4,"Developer, game or graphics"
+Halifax Region,27360.0,55382.4,67500.0,79617.6,"Developer, game or graphics"
+Edmundston–Woodstock Region,38174.4,53510.399999999994,64720.799999999996,75931.2,"Developer, game or graphics"
+Fredericton–Oromocto,40104.0,56764.8,83764.8,110764.8,"Developer, game or graphics"
+Moncton–Richibucto Region,39211.2,56116.799999999996,74210.4,92303.99999999999,"Developer, game or graphics"
+Saint John–St. Stephen Region,39211.2,56116.799999999996,74210.4,92303.99999999999,"Developer, game or graphics"
+Capitale-Nationale Region,38548.8,59083.200000000004,71870.40000000001,84657.6,"Developer, game or graphics"
+Chaudière-Appalaches Region,45000.0,58305.600000000006,67924.8,77544.0,"Developer, game or graphics"
+Estrie Region,34617.6,44020.8,60782.4,77544.0,"Developer, game or graphics"
+Lanaudière Region,36720.0,63302.4,75960.0,88617.6,"Developer, game or graphics"
+Laurentides Region,36720.0,63302.4,75960.0,88617.6,"Developer, game or graphics"
+Laval Region,43200.0,58953.6,71935.2,84916.8,"Developer, game or graphics"
+Montréal Region,36720.0,63302.4,75960.0,88617.6,"Developer, game or graphics"
+Montérégie Region,36720.0,63302.4,75960.0,88617.6,"Developer, game or graphics"
+Outaouais Region,47073.6,62769.600000000006,68306.4,73843.2,"Developer, game or graphics"
+Hamilton–Niagara Peninsula Region,36921.6,62308.8,74426.4,86544.0,"Developer, game or graphics"
+Kitchener–Waterloo–Barrie Region,38937.6,69235.2,95544.0,121852.8,"Developer, game or graphics"
+London Region,34560.0,55382.4,69228.0,83073.59999999999,"Developer, game or graphics"
+Ottawa Region,45777.6,65721.6,74397.6,83073.59999999999,"Developer, game or graphics"
+Stratford–Bruce Peninsula Region,36921.6,65073.6,77536.8,90000.0,"Developer, game or graphics"
+Toronto Region,37440.0,66456.0,77536.8,88617.6,"Developer, game or graphics"
+Southeast Region,36000.0,63360.0,76680.0,90000.0,"Developer, game or graphics"
+Winnipeg Region,31507.199999999997,55382.4,72691.2,90000.0,"Developer, game or graphics"
+Regina–Moose Mountain Region,33235.2,53164.8,62582.4,72000.0,"Developer, game or graphics"
+Saskatoon–Biggar Region,33235.2,57600.0,64800.0,72000.0,"Developer, game or graphics"
+Calgary Region,38073.6,58852.799999999996,75744.0,92635.2,"Developer, game or graphics"
+Edmonton Region,46036.799999999996,56246.4,73123.2,90000.0,"Developer, game or graphics"
+Red Deer Region,38073.6,58852.799999999996,75744.0,92635.2,"Developer, game or graphics"
+Kootenay Region,37440.0,66369.6,85111.20000000001,103852.8,"Developer, game or graphics"
+Lower Mainland–Southwest Region,37440.0,66369.6,85111.20000000001,103852.8,"Developer, game or graphics"
+Vancouver Island and Coast Region,42091.2,62308.8,77882.40000000001,93456.00000000001,"Developer, game or graphics"
+Avalon Peninsula Region,34617.6,67248.0,78278.4,89308.8,DevOps specialist
+Halifax Region,34502.4,58204.8,73951.20000000001,89697.6,DevOps specialist
+North Shore Region,40348.8,61387.200000000004,78127.2,94867.2,DevOps specialist
+Campbellton–Miramichi Region,40305.6,58507.200000000004,71517.6,84528.0,DevOps specialist
+Fredericton–Oromocto,47361.6,67694.4,93384.0,119073.59999999999,DevOps specialist
+Moncton–Richibucto Region,41054.4,56678.4,75657.6,94636.8,DevOps specialist
+Saint John–St. Stephen Region,39758.4,61041.6,81561.6,102081.6,DevOps specialist
+Capitale-Nationale Region,43200.0,70891.2,80445.6,90000.0,DevOps specialist
+Chaudière-Appalaches Region,43200.0,70891.2,80445.6,90000.0,DevOps specialist
+Lanaudière Region,43200.0,70891.2,80445.6,90000.0,DevOps specialist
+Laurentides Region,43200.0,70891.2,80445.6,90000.0,DevOps specialist
+Laval Region,43200.0,70891.2,80445.6,90000.0,DevOps specialist
+Montréal Region,36000.0,70891.2,80445.6,90000.0,DevOps specialist
+Montérégie Region,43200.0,70891.2,80445.6,90000.0,DevOps specialist
+Outaouais Region,43200.0,70891.2,80445.6,90000.0,DevOps specialist
+Saguenay–Lac-Saint-Jean Region,43200.0,70891.2,80445.6,90000.0,DevOps specialist
+Hamilton–Niagara Peninsula Region,51926.4,69235.2,91634.4,114033.59999999999,DevOps specialist
+Kingston–Pembroke Region,46151.99999999999,74073.59999999999,95882.4,117691.20000000001,DevOps specialist
+Kitchener–Waterloo–Barrie Region,46151.99999999999,74073.59999999999,95882.4,117691.20000000001,DevOps specialist
+London Region,47073.6,64785.600000000006,91468.8,118152.0,DevOps specialist
+Muskoka–Kawarthas Region,46151.99999999999,74073.59999999999,95882.4,117691.20000000001,DevOps specialist
+Ottawa Region,44308.8,76147.2,90000.0,103852.8,DevOps specialist
+Stratford–Bruce Peninsula Region,46151.99999999999,74073.59999999999,95882.4,117691.20000000001,DevOps specialist
+Toronto Region,46728.00000000001,76147.2,97149.6,118152.0,DevOps specialist
+Windsor-Sarnia Region,28800.0,75283.2,96487.20000000001,117691.20000000001,DevOps specialist
+Winnipeg Region,38764.8,51926.4,61272.0,70617.6,DevOps specialist
+Regina–Moose Mountain Region,41544.0,63000.0,75808.8,88617.6,DevOps specialist
+Saskatoon–Biggar Region,41544.0,63000.0,75808.8,88617.6,DevOps specialist
+Calgary Region,42825.6,76147.2,93456.0,110764.8,DevOps specialist
+Edmonton Region,47995.2,65764.8,84808.8,103852.8,DevOps specialist
+Lower Mainland–Southwest Region,45000.0,77544.0,101080.8,124617.6,DevOps specialist
+Vancouver Island and Coast Region,54000.0,75168.0,89510.4,103852.8,DevOps specialist
+Avalon Peninsula Region,42652.8,69451.2,84470.4,99489.6,"Developer, embedded applications or devices"
+Fredericton–Oromocto,31737.6,59083.200000000004,77205.6,95328.0,"Developer, embedded applications or devices"
+Moncton–Richibucto Region,31737.6,59083.200000000004,77205.6,95328.0,"Developer, embedded applications or devices"
+Saint John–St. Stephen Region,31737.6,59083.200000000004,77205.6,95328.0,"Developer, embedded applications or devices"
+Capitale-Nationale Region,60480.0,72374.4,87876.0,103377.6,"Developer, embedded applications or devices"
+Chaudière-Appalaches Region,52430.399999999994,73843.2,88610.4,103377.6,"Developer, embedded applications or devices"
+Lanaudière Region,52430.399999999994,73843.2,88610.4,103377.6,"Developer, embedded applications or devices"
+Laurentides Region,52430.399999999994,73843.2,88610.4,103377.6,"Developer, embedded applications or devices"
+Laval Region,59083.200000000004,72691.2,84607.2,96523.2,"Developer, embedded applications or devices"
+Montréal Region,59083.200000000004,76147.2,89762.4,103377.6,"Developer, embedded applications or devices"
+Montérégie Region,43200.0,72000.0,81511.2,91022.4,"Developer, embedded applications or devices"
+Outaouais Region,52430.399999999994,73843.2,88610.4,103377.6,"Developer, embedded applications or devices"
+Saguenay–Lac-Saint-Jean Region,52430.399999999994,73843.2,88610.4,103377.6,"Developer, embedded applications or devices"
+Hamilton–Niagara Peninsula Region,41529.6,64800.0,78264.0,91728.0,"Developer, embedded applications or devices"
+Kingston–Pembroke Region,41529.6,64800.0,78264.0,91728.0,"Developer, embedded applications or devices"
+Kitchener–Waterloo–Barrie Region,41529.6,64800.0,78264.0,91728.0,"Developer, embedded applications or devices"
+Muskoka–Kawarthas Region,41529.6,64800.0,78264.0,91728.0,"Developer, embedded applications or devices"
+Ottawa Region,45000.0,61545.600000000006,73699.20000000001,85852.8,"Developer, embedded applications or devices"
+Toronto Region,41529.6,64800.0,78264.0,91728.0,"Developer, embedded applications or devices"
+Winnipeg Region,34344.0,63244.8,79884.0,96523.2,"Developer, embedded applications or devices"
+Calgary Region,24235.199999999997,59544.0,81698.4,103852.8,"Developer, embedded applications or devices"
+Edmonton Region,24235.199999999997,59544.0,81698.4,103852.8,"Developer, embedded applications or devices"
+Lower Mainland–Southwest Region,51321.6,60480.0,71776.79999999999,83073.59999999999,"Developer, embedded applications or devices"
+Thompson–Okanagan Region,37224.0,60480.0,74548.8,88617.6,"Developer, embedded applications or devices"
+Vancouver Island and Coast Region,37224.0,60480.0,74548.8,88617.6,"Developer, embedded applications or devices"
+Avalon Peninsula Region,42652.8,69451.2,84470.4,99489.6,Hardware Engineer
+Fredericton–Oromocto,31737.6,59083.200000000004,77205.6,95328.0,Hardware Engineer
+Moncton–Richibucto Region,31737.6,59083.200000000004,77205.6,95328.0,Hardware Engineer
+Saint John–St. Stephen Region,31737.6,59083.200000000004,77205.6,95328.0,Hardware Engineer
+Capitale-Nationale Region,60480.0,72374.4,87876.0,103377.6,Hardware Engineer
+Chaudière-Appalaches Region,52430.399999999994,73843.2,88610.4,103377.6,Hardware Engineer
+Lanaudière Region,52430.399999999994,73843.2,88610.4,103377.6,Hardware Engineer
+Laurentides Region,52430.399999999994,73843.2,88610.4,103377.6,Hardware Engineer
+Laval Region,59083.200000000004,72691.2,84607.2,96523.2,Hardware Engineer
+Montréal Region,59083.200000000004,76147.2,89762.4,103377.6,Hardware Engineer
+Montérégie Region,43200.0,72000.0,81511.2,91022.4,Hardware Engineer
+Outaouais Region,52430.399999999994,73843.2,88610.4,103377.6,Hardware Engineer
+Saguenay–Lac-Saint-Jean Region,52430.399999999994,73843.2,88610.4,103377.6,Hardware Engineer
+Hamilton–Niagara Peninsula Region,41529.6,64800.0,78264.0,91728.0,Hardware Engineer
+Kingston–Pembroke Region,41529.6,64800.0,78264.0,91728.0,Hardware Engineer
+Kitchener–Waterloo–Barrie Region,41529.6,64800.0,78264.0,91728.0,Hardware Engineer
+Muskoka–Kawarthas Region,41529.6,64800.0,78264.0,91728.0,Hardware Engineer
+Ottawa Region,45000.0,61545.600000000006,73699.20000000001,85852.8,Hardware Engineer
+Toronto Region,41529.6,64800.0,78264.0,91728.0,Hardware Engineer
+Winnipeg Region,34344.0,63244.8,79884.0,96523.2,Hardware Engineer
+Calgary Region,24235.199999999997,59544.0,81698.4,103852.8,Hardware Engineer
+Edmonton Region,24235.199999999997,59544.0,81698.4,103852.8,Hardware Engineer
+Lower Mainland–Southwest Region,51321.6,60480.0,71776.79999999999,83073.59999999999,Hardware Engineer
+Thompson–Okanagan Region,37224.0,60480.0,74548.8,88617.6,Hardware Engineer
+Vancouver Island and Coast Region,37224.0,60480.0,74548.8,88617.6,Hardware Engineer
+Avalon Peninsula Region,43560.0,45691.2,70315.20000000001,94939.20000000001,Designer
+Cape Breton Region,24984.000000000004,32011.2,36957.6,41904.0,Designer
+Halifax Region,30600.0,38764.8,52264.8,65764.8,Designer
+North Shore Region,24552.0,35078.4,45021.600000000006,54964.8,Designer
+Southern Region,26294.4,35611.2,42508.8,49406.4,Designer
+Campbellton–Miramichi Region,22824.0,41688.0,53244.0,64800.0,Designer
+Edmundston–Woodstock Region,27014.4,33739.2,42768.0,51796.799999999996,Designer
+Fredericton–Oromocto,22824.0,41688.0,53244.0,64800.0,Designer
+Moncton–Richibucto Region,22824.0,41688.0,53244.0,64800.0,Designer
+Saint John–St. Stephen Region,22824.0,41688.0,53244.0,64800.0,Designer
+Capitale-Nationale Region,28180.8,36000.0,51120.0,66240.0,Designer
+Chaudière-Appalaches Region,28180.8,36000.0,51120.0,66240.0,Designer
+Estrie Region,28800.0,30240.0,37260.0,44280.0,Designer
+Lanaudière Region,28180.8,36000.0,51120.0,66240.0,Designer
+Laval Region,25920.0,37166.4,56656.8,76147.2,Designer
+Montréal Region,28800.0,40320.0,53784.0,67248.0,Designer
+Montérégie Region,31852.800000000003,36000.0,46058.399999999994,56116.799999999996,Designer
+Saguenay–Lac-Saint-Jean Region,28180.8,36000.0,51120.0,66240.0,Designer
+Hamilton–Niagara Peninsula Region,28353.600000000002,43516.799999999996,55382.399999999994,67248.0,Designer
+Kitchener–Waterloo–Barrie Region,28800.0,36000.0,43963.2,51926.4,Designer
+London Region,26323.2,45000.0,53884.8,62769.600000000006,Designer
+Muskoka–Kawarthas Region,26323.2,45000.0,53884.8,62769.600000000006,Designer
+Ottawa Region,25920.0,44308.8,50212.8,56116.799999999996,Designer
+Toronto Region,28800.0,48456.0,55612.8,62769.600000000006,Designer
+Windsor-Sarnia Region,23832.0,29073.600000000002,40456.8,51840.0,Designer
+Winnipeg Region,22032.0,34617.6,43228.8,51840.0,Designer
+Regina–Moose Mountain Region,20160.0,34560.0,55677.6,76795.2,Designer
+Saskatoon–Biggar Region,20160.0,33120.0,51451.2,69782.4,Designer
+Calgary Region,28800.0,40320.0,59076.0,77832.0,Designer
+Camrose–Drumheller Region,28800.0,40320.0,59076.0,77832.0,Designer
+Edmonton Region,28800.0,40147.2,58989.6,77832.0,Designer
+Lower Mainland–Southwest Region,29764.800000000003,46800.0,66600.0,86400.0,Designer
+Vancouver Island and Coast Region,24120.0,36835.2,52603.2,68371.2,Designer
+Avalon Peninsula Region,43560.0,45691.2,70315.20000000001,94939.20000000001,Developer Experience
+Cape Breton Region,24984.000000000004,32011.2,36957.6,41904.0,Developer Experience
+Halifax Region,30600.0,38764.8,52264.8,65764.8,Developer Experience
+North Shore Region,24552.0,35078.4,45021.600000000006,54964.8,Developer Experience
+Southern Region,26294.4,35611.2,42508.8,49406.4,Developer Experience
+Campbellton–Miramichi Region,22824.0,41688.0,53244.0,64800.0,Developer Experience
+Edmundston–Woodstock Region,27014.4,33739.2,42768.0,51796.799999999996,Developer Experience
+Fredericton–Oromocto,22824.0,41688.0,53244.0,64800.0,Developer Experience
+Moncton–Richibucto Region,22824.0,41688.0,53244.0,64800.0,Developer Experience
+Saint John–St. Stephen Region,22824.0,41688.0,53244.0,64800.0,Developer Experience
+Capitale-Nationale Region,28180.8,36000.0,51120.0,66240.0,Developer Experience
+Chaudière-Appalaches Region,28180.8,36000.0,51120.0,66240.0,Developer Experience
+Estrie Region,28800.0,30240.0,37260.0,44280.0,Developer Experience
+Lanaudière Region,28180.8,36000.0,51120.0,66240.0,Developer Experience
+Laval Region,25920.0,37166.4,56656.8,76147.2,Developer Experience
+Montréal Region,28800.0,40320.0,53784.0,67248.0,Developer Experience
+Montérégie Region,31852.800000000003,36000.0,46058.399999999994,56116.799999999996,Developer Experience
+Saguenay–Lac-Saint-Jean Region,28180.8,36000.0,51120.0,66240.0,Developer Experience
+Hamilton–Niagara Peninsula Region,28353.600000000002,43516.799999999996,55382.399999999994,67248.0,Developer Experience
+Kitchener–Waterloo–Barrie Region,28800.0,36000.0,43963.2,51926.4,Developer Experience
+London Region,26323.2,45000.0,53884.8,62769.600000000006,Developer Experience
+Muskoka–Kawarthas Region,26323.2,45000.0,53884.8,62769.600000000006,Developer Experience
+Ottawa Region,25920.0,44308.8,50212.8,56116.799999999996,Developer Experience
+Toronto Region,28800.0,48456.0,55612.8,62769.600000000006,Developer Experience
+Windsor-Sarnia Region,23832.0,29073.600000000002,40456.8,51840.0,Developer Experience
+Winnipeg Region,22032.0,34617.6,43228.8,51840.0,Developer Experience
+Regina–Moose Mountain Region,20160.0,34560.0,55677.6,76795.2,Developer Experience
+Saskatoon–Biggar Region,20160.0,33120.0,51451.2,69782.4,Developer Experience
+Calgary Region,28800.0,40320.0,59076.0,77832.0,Developer Experience
+Camrose–Drumheller Region,28800.0,40320.0,59076.0,77832.0,Developer Experience
+Edmonton Region,28800.0,40147.2,58989.6,77832.0,Developer Experience
+Lower Mainland–Southwest Region,29764.800000000003,46800.0,66600.0,86400.0,Developer Experience
+Vancouver Island and Coast Region,24120.0,36835.2,52603.2,68371.2,Developer Experience

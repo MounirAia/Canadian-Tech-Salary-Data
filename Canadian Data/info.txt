@@ -1,0 +1,5 @@
+CanadaData.csv: Contains the final data set for the Canadian data. This data set is used to create the final machine learning model. The salary column is in USD dollars.
+
+GovSalaryCombined.csv: Dataset that was constructed to map canadian city to the salary of the stack overflow survey. All the salary in this dataset is in CAD dollars.
+
+CanadianCitiesPopulation.csv: Contains the population of the Canadian cities.
